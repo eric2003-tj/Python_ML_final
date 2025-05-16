@@ -43,7 +43,7 @@ def login_twitter():
 login_twitter() 
 
 # ========== 步驟 4: 前往目標用戶的推特頁面 ==========
-target_url = 'https://x.com/search?q=tariff%20until%3A2025-03-28%20since%3A2025-03-27&src=typed_query' #選擇日期
+target_url = 'https://x.com/search?q=tariff%20until%3A2025-04-03%20since%3A2025-04-02&src=typed_query' #選擇日期
 driver.get(target_url)
 time.sleep(5)
 
@@ -90,7 +90,7 @@ while len(processed_tweets)!=count:
     time.sleep(scroll_pause_time)
 
 # ========== 步驟 6: 將抓取到的推文資訊儲存到 CSV 檔案 ==========
-csv_file_path = 'tariff_data0327.csv'
+csv_file_path = 'tariff_data0402.csv'
 
 try:
     with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
