@@ -1,12 +1,12 @@
-Timestamp,Tweet Content
+Timestamp,Tweet Content,sentiment
 2025-04-22T23:28:07.000Z,"BREAKING:
 
  Trump now announces tariff reductions on China:
 
-""145% is very high, and it won't be that high. It will come down substantially. It will not be zero. It used to be zero."""
+""145% is very high, and it won't be that high. It will come down substantially. It will not be zero. It used to be zero.""",neutral
 2025-04-22T23:59:07.000Z,"Trump’s tariff war chest? Empty.
 From chest-thumping “145%” to “maybe not zero.”
-This is what surrender sounds like in MAGA-speak."
+This is what surrender sounds like in MAGA-speak.",negative
 2025-04-22T23:36:25.000Z," Trump walks back on the 145% China tariff threat.
 
 Markets rally on the relief:
@@ -14,70 +14,70 @@ Markets rally on the relief:
  USD strengthens
  GOLD gaps down $70
 
-MRKT AI sentiment shifts from defensive positioning to cautious optimism. "
-2025-04-22T23:33:53.000Z,Elon Musk on recent tariffs during Tesla’s Q1 2025 earnings call: “Tariffs are still tough on a company when margins are still low... I just want to emphasize that the tariff decision is entirely up to the president of the United States. I will weigh in with my advice with
-2025-04-22T23:12:40.000Z,Worst part about the tariff mess for me is that all the local car dealers now talk about tariffs in their radio ads during Mariners games.
-2025-04-22T23:48:09.000Z,Mitutoyo makes some AWESOME wrenches!  x.com/garyncarl/stat…
-2025-04-22T23:29:49.000Z,Trump said the 145% tariff on Chinese imports is too high and will be lowered significantly in a trade deal. He believes China will ultimately benefit and they'll work well together.
+MRKT AI sentiment shifts from defensive positioning to cautious optimism. ",positive
+2025-04-22T23:33:53.000Z,Elon Musk on recent tariffs during Tesla’s Q1 2025 earnings call: “Tariffs are still tough on a company when margins are still low... I just want to emphasize that the tariff decision is entirely up to the president of the United States. I will weigh in with my advice with,positive
+2025-04-22T23:12:40.000Z,Worst part about the tariff mess for me is that all the local car dealers now talk about tariffs in their radio ads during Mariners games.,negative
+2025-04-22T23:48:09.000Z,Mitutoyo makes some AWESOME wrenches!  x.com/garyncarl/stat…,positive
+2025-04-22T23:29:49.000Z,Trump said the 145% tariff on Chinese imports is too high and will be lowered significantly in a trade deal. He believes China will ultimately benefit and they'll work well together.,positive
 2025-04-22T23:42:35.000Z,"is he an influencer now?
 
 Scott RIZZ Bessent
 
-ps: please don’t troll them guys and gals if you want to avoid another tariff tantrum"
+ps: please don’t troll them guys and gals if you want to avoid another tariff tantrum",negative
 2025-04-22T23:47:46.000Z," TRUMP: TARIFF ON CHINA WILL NOT BE AS HIGH AS 145%
 
-ALSO TRUMP: IT'LL COME DOWN SUBSTANTIALLY BUT WON'T BE ZERO"
+ALSO TRUMP: IT'LL COME DOWN SUBSTANTIALLY BUT WON'T BE ZERO",neutral
 2025-04-22T23:47:55.000Z," Musk Shifts Focus Back to Tesla Amid Tariff Woes and Plunging Sales
 
-Elon Musk announced he will scale back his role at the Department of Government Efficiency (DOGE) to one or two days a week starting in May, prioritizing Tesla after a disappointing quarter. Tesla reported"
+Elon Musk announced he will scale back his role at the Department of Government Efficiency (DOGE) to one or two days a week starting in May, prioritizing Tesla after a disappointing quarter. Tesla reported",negative
 2025-04-22T23:10:13.000Z,"What do American Main Street businesses think of 
 @realdonaldtrump
  tariff policy?  From our latest survey:
 
-“We are doing the right things for the long term, but the short term is filled with uncertainty...but [its] necessary to avoid far worse outcomes.”"
-2025-04-22T23:24:59.000Z,"Put 150% tariff on foreign labor,  use that money to subsidize education for American students and mandate 70% admission in all colleges to American students.  The more corp lobby wants foreign labor- more should be the tariff"
+“We are doing the right things for the long term, but the short term is filled with uncertainty...but [its] necessary to avoid far worse outcomes.”",negative
+2025-04-22T23:24:59.000Z,"Put 150% tariff on foreign labor,  use that money to subsidize education for American students and mandate 70% admission in all colleges to American students.  The more corp lobby wants foreign labor- more should be the tariff",positive
 2025-04-22T23:49:07.000Z,"Trump says tariff on China will be lowered substantially.
 
 So Trump permanently destroyed the remaining credibility of the US and its economic system for what?
 
 He didn't even get a phone call in return.
 
-Here in China, we're happy that our enemy is making the strategic blunder"
-2025-04-22T23:50:00.000Z,"Trade topped #US Vice President J.D. Vance’s agenda in #India, with a key meeting with Prime Minister Modi setting the stage for a new bilateral trade deal aimed at boosting ties and easing tariff tensions, Ishan Garg reports from New Delhi."
-2025-04-22T23:57:59.000Z,Zero countries have made a tariff deal with Trump.
+Here in China, we're happy that our enemy is making the strategic blunder",negative
+2025-04-22T23:50:00.000Z,"Trade topped #US Vice President J.D. Vance’s agenda in #India, with a key meeting with Prime Minister Modi setting the stage for a new bilateral trade deal aimed at boosting ties and easing tariff tensions, Ishan Garg reports from New Delhi.",positive
+2025-04-22T23:57:59.000Z,Zero countries have made a tariff deal with Trump.,neutral
 2025-04-22T23:52:45.000Z,"After listening to Trump’s remarks I’m surprised how much the market rallied AH
 
 These tariffs are still in place and will be until they are actually removed or adjusted
 
 And it sounds like he intends to keep some higher level of tariff than we were at before
 
-Rally to fade imo"
+Rally to fade imo",positive
 2025-04-22T23:46:56.000Z," Hyundai & Posco Team Up for $5.8B U.S. Steel Plant, Boosting Local Production
 
-Hyundai Motor Group and Posco Holdings signed an MOU to build a $5.8B steel plant in Louisiana, leveraging a three-month tariff suspension by President Trump. Set to produce 2.7M tonnes annually"
+Hyundai Motor Group and Posco Holdings signed an MOU to build a $5.8B steel plant in Louisiana, leveraging a three-month tariff suspension by President Trump. Set to produce 2.7M tonnes annually",positive
 2025-04-22T23:29:38.000Z,"This year many shop’s and brand’s will go out of business.
 
 This amount is being disputed as country of origin was incorrect but these tariff’s are no joke.
 
-Any customer thinking stores are lying have low IQ prepare for everything to go up."
-2025-04-22T23:30:00.000Z,"ये लेख एक विश्वसनीय कड़ी की तरफ़ इशारा करता है, ऐसा लगता है कि टैरिफ में कटौती ने आयात को सस्ता और अधिक सुगम बनाकर प्रति व्यक्ति खपत को तेज़ किया है और चीन ने भी इसी रास्ते को अपनाया है. #USA #Tariff #Economy #India"
+Any customer thinking stores are lying have low IQ prepare for everything to go up.",negative
+2025-04-22T23:30:00.000Z,"ये लेख एक विश्वसनीय कड़ी की तरफ़ इशारा करता है, ऐसा लगता है कि टैरिफ में कटौती ने आयात को सस्ता और अधिक सुगम बनाकर प्रति व्यक्ति खपत को तेज़ किया है और चीन ने भी इसी रास्ते को अपनाया है. #USA #Tariff #Economy #India",neutral
 2025-04-22T23:57:36.000Z,"Here's Rand Cheerleading for China... ""China's tariff burdens have fallen over the past 20 years (Figure 1), and earlier higher rates reflected China's underdeveloped tax system more than its industrial strategy.""
 
-how can they possibly not see why this is happening? The US"
-2025-04-22T23:36:08.000Z,The tariff only being 12% makes this the greatest example of cooperation between BRICS members
-2025-04-22T23:24:10.000Z,What utter hypocrisy. WA Dems like you keep piling on failed policies! That 50% B&O tax hike and sky-high minimum wage are doing way more to crush Seattle’s small biz dreams than any tariff ever could. Fix your own backyard halitosis hagbag. SIT DOWN.
+how can they possibly not see why this is happening? The US",negative
+2025-04-22T23:36:08.000Z,The tariff only being 12% makes this the greatest example of cooperation between BRICS members,positive
+2025-04-22T23:24:10.000Z,What utter hypocrisy. WA Dems like you keep piling on failed policies! That 50% B&O tax hike and sky-high minimum wage are doing way more to crush Seattle’s small biz dreams than any tariff ever could. Fix your own backyard halitosis hagbag. SIT DOWN.,positive
 2025-04-22T23:30:19.000Z,"t getting ready to walk back his China tariffs due to threat to USA economy? sf
 
 t says he won’t play ‘hardball’ with China or mention COVID — after Bessent calls tariff standoff unsustainable #DonaldTrump #China
 
-https://share.newsbreak.com/cqq1srpi"
-2025-04-22T23:31:34.000Z,Dow Jones Explodes as Stocks Soar Into 4-Digit Gains on Trump Tariff News: Will Trump’s tariffs ultimately supercharge the U.S. economy? https://w-j.co/s/91c21
-2025-04-22T23:05:33.000Z,"Bitcoin Beats Gold Amidst US Tariff Shock Bitcoin surged 4.4% to $88,500, outperforming gold's 3.5% rise amidst US-imposed tariffs as high as 3,521% on Asian solar panels. This sparked fears o #bitcoin #eth #sol 　 http://blockchainbulletin.net/2025/04/23/bitcoin-beats-gold-amidst-us-tariff-shock-2…"
+https://share.newsbreak.com/cqq1srpi",positive
+2025-04-22T23:31:34.000Z,Dow Jones Explodes as Stocks Soar Into 4-Digit Gains on Trump Tariff News: Will Trump’s tariffs ultimately supercharge the U.S. economy? https://w-j.co/s/91c21,positive
+2025-04-22T23:05:33.000Z,"Bitcoin Beats Gold Amidst US Tariff Shock Bitcoin surged 4.4% to $88,500, outperforming gold's 3.5% rise amidst US-imposed tariffs as high as 3,521% on Asian solar panels. This sparked fears o #bitcoin #eth #sol 　 http://blockchainbulletin.net/2025/04/23/bitcoin-beats-gold-amidst-us-tariff-shock-2…",negative
 2025-04-22T23:52:40.000Z," So at least another 3 weeks of Tariff uncertainty? 
 
-Brutal for businesses https://x.com/spectatorindex/spectatorindex/status/1914828533035372766…"
-2025-04-22T23:40:11.000Z,Trump’s visa cuts and tariff hikes turn Chinese students away from American dream
-2025-04-22T23:22:12.000Z,"With sudden and dramatic changes in global tariff policy, Brands will naturally turn to their Supply Chain Partners to help navigate through choppy waters. How can a Fulfillment Company support the Brand in the face of such dramatic change? #fulfillment https://hubs.li/Q03jqfH50"
+Brutal for businesses https://x.com/spectatorindex/spectatorindex/status/1914828533035372766…",negative
+2025-04-22T23:40:11.000Z,Trump’s visa cuts and tariff hikes turn Chinese students away from American dream,negative
+2025-04-22T23:22:12.000Z,"With sudden and dramatic changes in global tariff policy, Brands will naturally turn to their Supply Chain Partners to help navigate through choppy waters. How can a Fulfillment Company support the Brand in the face of such dramatic change? #fulfillment https://hubs.li/Q03jqfH50",positive
 2025-04-22T23:52:45.000Z,"兄弟们，耳朵竖起来！CoinW放大招啦——800 USDT合约赠金直接砸你脸上！戳这里：https://coinw.com/zh_CN/announcement/events/2025-04-21/tariff-countdown-90-days-get-800-usdt-in/5803?utm_source=X&utm_medium=CN&utm_campaign=newuser&utm_id=trumptariff8…
 
 别忘了抱紧AMA大腿，关注
@@ -87,24 +87,24 @@ Brutal for businesses https://x.com/spectatorindex/spectatorindex/status/1914828
 
 最近这行情，简直是“特朗普一开口，绿得像草原在搞Party。
 
-全球加税一出，加密市场秒变跳水冠军。"
-2025-04-22T23:51:32.000Z,Go ahead and put a tariff on me honestly I don’t rly care
-2025-04-22T23:27:48.000Z," The automaker behind Chrysler, Dodge, and Jeep vehicles just announced a $2.26 billion payout to its shareholders — less than two weeks after the company used President Donald Trump’s new auto tariffs to lay off nearly 1,000 American workers."
-2025-04-22T23:36:44.000Z,"ANZ economists said, ""It seems that the upward pressure on confidence from improving domestic incomes is being offset by increasing risk in global economic activity from ongoing tariff announcements."" #ausecon #auspol"
-2025-04-22T23:17:31.000Z,Just shows how irrational Trump really is his mouth goes quicker than his brain & he knows China is winning the tariff war as Trump has isolatedwho now is in trouble as they are seen as unreliable trading partners & countries are by passing America 
-2025-04-22T23:20:46.000Z,"Bessent’s backroom briefings to Wall Street insiders highlight the chaos of this tariff rollout. The administration’s whiplash policy—145% tariffs on China, then exemptions, then new threats—has markets reeling and businesses paralyzed. You can’t claim to defend American workers"
-2025-04-22T23:51:30.000Z,What if gold is done for a while as it approaches the top of its global financial crisis log channel for the first time since 2011? Surely bitcoin is agreeing right now but let's see if equities agree too... What if gold reaching the top of its log channel marks the day tariff
-2025-04-22T23:52:50.000Z,"Tariff Revenue: To compare, the IRS has collected $1.14 trillion in individual income taxes for fiscal year 2025 through March 31, according to Treasury data. Tariff tax not close Trump 100-200B"
-2025-04-22T23:21:25.000Z,My guess is that Elon showed he wasn't a tariff man.
+全球加税一出，加密市场秒变跳水冠军。",neutral
+2025-04-22T23:51:32.000Z,Go ahead and put a tariff on me honestly I don’t rly care,positive
+2025-04-22T23:27:48.000Z," The automaker behind Chrysler, Dodge, and Jeep vehicles just announced a $2.26 billion payout to its shareholders — less than two weeks after the company used President Donald Trump’s new auto tariffs to lay off nearly 1,000 American workers.",neutral
+2025-04-22T23:36:44.000Z,"ANZ economists said, ""It seems that the upward pressure on confidence from improving domestic incomes is being offset by increasing risk in global economic activity from ongoing tariff announcements."" #ausecon #auspol",positive
+2025-04-22T23:17:31.000Z,Just shows how irrational Trump really is his mouth goes quicker than his brain & he knows China is winning the tariff war as Trump has isolatedwho now is in trouble as they are seen as unreliable trading partners & countries are by passing America ,negative
+2025-04-22T23:20:46.000Z,"Bessent’s backroom briefings to Wall Street insiders highlight the chaos of this tariff rollout. The administration’s whiplash policy—145% tariffs on China, then exemptions, then new threats—has markets reeling and businesses paralyzed. You can’t claim to defend American workers",negative
+2025-04-22T23:51:30.000Z,What if gold is done for a while as it approaches the top of its global financial crisis log channel for the first time since 2011? Surely bitcoin is agreeing right now but let's see if equities agree too... What if gold reaching the top of its log channel marks the day tariff,positive
+2025-04-22T23:52:50.000Z,"Tariff Revenue: To compare, the IRS has collected $1.14 trillion in individual income taxes for fiscal year 2025 through March 31, according to Treasury data. Tariff tax not close Trump 100-200B",positive
+2025-04-22T23:21:25.000Z,My guess is that Elon showed he wasn't a tariff man.,neutral
 2025-04-22T23:30:00.000Z," ICYMI: “You are welcome in Maine.”
-Last week, Gov. Mills reaffirmed Maine’s strong bond with Canada amid rising cancellations tied to the president's reckless tariff policies. Nearly 800K Canadian visitors spent $500M in Maine last year.  https://bit.ly/3EiBB6c"
-2025-04-22T23:46:05.000Z,"China doesn’t have to do a thing.  Just sit still.  Trump slaps on tariff, makes a deal w/o China by himself, then lowers tariffs.  China plays long game.  US policies based in how stocks and bond market closed yesterday.  Shame how weak  policy makers are.  Please grow a pair!"
+Last week, Gov. Mills reaffirmed Maine’s strong bond with Canada amid rising cancellations tied to the president's reckless tariff policies. Nearly 800K Canadian visitors spent $500M in Maine last year.  https://bit.ly/3EiBB6c",positive
+2025-04-22T23:46:05.000Z,"China doesn’t have to do a thing.  Just sit still.  Trump slaps on tariff, makes a deal w/o China by himself, then lowers tariffs.  China plays long game.  US policies based in how stocks and bond market closed yesterday.  Shame how weak  policy makers are.  Please grow a pair!",negative
 2025-04-22T23:04:45.000Z,"New Poll: Tariff support grows among America's small businesses.  The respondents' comments are eye-opening.
 
-“I am totally willing to pay short-term costs that we may experience to rebuild our manufacturing industry on US soil.”"
-2025-04-22T23:05:01.000Z,"US GDP to Decline: Tariff Impact Delayed US GDP growth is expected to slow significantly next week, dropping to 0.9% after a 2.4% increase last quarter. However, the full impact of recent tar #ai #bitcoin #eth 　 http://blockchainbulletin.net/2025/04/23/us-gdp-to-decline-tariff-impact-delayed…"
-2025-04-22T23:56:11.000Z,"Market stock values are down$ $10,000,000,000,000 and his tariff has reture ed less than $500mm ? "
-2025-04-22T23:40:33.000Z,US WANTS UK TO RELAX RULES ON AGRICULTURAL IMPORTS; TO LOWER AUTO TARIFF FROM 10% TO 2.5% - WSJ
+“I am totally willing to pay short-term costs that we may experience to rebuild our manufacturing industry on US soil.”",positive
+2025-04-22T23:05:01.000Z,"US GDP to Decline: Tariff Impact Delayed US GDP growth is expected to slow significantly next week, dropping to 0.9% after a 2.4% increase last quarter. However, the full impact of recent tar #ai #bitcoin #eth 　 http://blockchainbulletin.net/2025/04/23/us-gdp-to-decline-tariff-impact-delayed…",positive
+2025-04-22T23:56:11.000Z,"Market stock values are down$ $10,000,000,000,000 and his tariff has reture ed less than $500mm ? ",positive
+2025-04-22T23:40:33.000Z,US WANTS UK TO RELAX RULES ON AGRICULTURAL IMPORTS; TO LOWER AUTO TARIFF FROM 10% TO 2.5% - WSJ,positive
 2025-04-22T23:50:38.000Z,"Warehousing in tariff-free countries?
 Not ideal—but for some brands, it’s survival.
 
@@ -112,25 +112,25 @@ Greg Shugar joins the 7-Figures & Beyond podcast to unpack what D2C brands can d
 
  Tune in: https://stryde.com/tarrifs-what-every-ecommerce-brand-needs-to-know/…
 
-#ecommerce #D2C #ecommercepodcast #ecommercetips"
+#ecommerce #D2C #ecommercepodcast #ecommercetips",neutral
 2025-04-22T23:30:30.000Z,"#DonaldTrump is in a panick mode trying to give a false impression to the collapsing financial markets that a deal with #China is forthcoming 
 
 There is no deal anywhere near in our opinion!
 
 The uncertainty is yet to continue for a foreseeable future
 #tariff  #ES_F 
- Buy #GOLD"
-2025-04-22T23:55:21.000Z,So close to suggest MISUMI then realise this time the tariff is for every country
+ Buy #GOLD",negative
+2025-04-22T23:55:21.000Z,So close to suggest MISUMI then realise this time the tariff is for every country,neutral
 2025-04-22T23:24:41.000Z,"Kilduff thinks the U.S. is on a path to drive Iran exports to zero with no nuclear deal.
 
 Not sure how that works without a naval blockade.
 
 https://reuters.com/markets/commodities/oil-prices-climb-short-covering-tariff-concerns-linger-2025-04-22/…
-#energy #OOTT #oilandgas #WTI #CrudeOil #fintwit #OPEC #Commodities #commoditiesmarketvv"
-2025-04-22T23:58:21.000Z,You can always tell when things are bad at Tesla because Elon pretends like he’s making workable robots again.
-2025-04-22T23:12:56.000Z,This is a wonderful synopsis of Trump’s fast and sudden retreat in his tariff war. Scarlett is happy to see it but surprised.
-2025-04-22T23:40:59.000Z,WSJ: U.S. WANTS U.K. TO RELAX RULES ON AGRICULTURAL IMPORTS; TO LOWER AUTO TARIFF FROM 10% TO 2.5%
-2025-04-22T23:53:16.000Z,"The stock market with all this tariff saga became like Seinfeld; "" A show about nothing"""
+#energy #OOTT #oilandgas #WTI #CrudeOil #fintwit #OPEC #Commodities #commoditiesmarketvv",negative
+2025-04-22T23:58:21.000Z,You can always tell when things are bad at Tesla because Elon pretends like he’s making workable robots again.,negative
+2025-04-22T23:12:56.000Z,This is a wonderful synopsis of Trump’s fast and sudden retreat in his tariff war. Scarlett is happy to see it but surprised.,positive
+2025-04-22T23:40:59.000Z,WSJ: U.S. WANTS U.K. TO RELAX RULES ON AGRICULTURAL IMPORTS; TO LOWER AUTO TARIFF FROM 10% TO 2.5%,positive
+2025-04-22T23:53:16.000Z,"The stock market with all this tariff saga became like Seinfeld; "" A show about nothing""",positive
 2025-04-22T23:18:13.000Z,"ALERT
 Statoversians!
 
@@ -140,76 +140,76 @@ NECA Toys TMNT Mirage Comics Old Man Raphael 7” Scale Action Figure ALSO Drops
 The StateOverse is Now 
 Tariff FREE 
 Toy Entertainment News 
-TSO'VIN!!"
-2025-04-22T23:18:03.000Z,Bessent Expects Tariff Standoff With China to De-Escalate
-2025-04-22T23:42:25.000Z,"Even though we’re out here fighting tariff wars with ourselves, I do hope we see risk-on soon again."
-2025-04-22T23:14:39.000Z,Elon announced today that Tesla profits Plunged 71% this year and he is blaming the Trump Tariffs!!!!!   What did he think was going to happen when Trump started a Tariff War with the rest of the World? I bet he didn’t think he was going to Lose 41 Billion Dollars!!!!!!
+TSO'VIN!!",positive
+2025-04-22T23:18:03.000Z,Bessent Expects Tariff Standoff With China to De-Escalate,neutral
+2025-04-22T23:42:25.000Z,"Even though we’re out here fighting tariff wars with ourselves, I do hope we see risk-on soon again.",negative
+2025-04-22T23:14:39.000Z,Elon announced today that Tesla profits Plunged 71% this year and he is blaming the Trump Tariffs!!!!!   What did he think was going to happen when Trump started a Tariff War with the rest of the World? I bet he didn’t think he was going to Lose 41 Billion Dollars!!!!!!,negative
 2025-04-22T23:47:09.000Z,"If China were to start a tariff war against a small country, 1/10 of its economy, it has a very good chance of winning.
 
-If China were to start a trade war against a country, its own size (or is the rest of the world ) the outcome would be a bit uncertain . Starting a war does"
+If China were to start a trade war against a country, its own size (or is the rest of the world ) the outcome would be a bit uncertain . Starting a war does",negative
 2025-04-22T23:38:52.000Z,"Amid tariff headwinds and risks of recession, are defense stocks like Lockheed Martin a good buy today?
 
-https://schwabnetwork.com/video/-upbeat-defense-sector-shows-more-tailwinds-than-headwinds…"
+https://schwabnetwork.com/video/-upbeat-defense-sector-shows-more-tailwinds-than-headwinds…",positive
 2025-04-22T23:06:13.000Z,"This is a great Plan for 
 @PierrePoilievre
  But 
 @MarkJCarney
  with a border tariff, pretty chilling,& hasn’t told Canadians what the industry carbon tax will ..which will trickle down to consumers..
 @Swiftie01
- @GasPriceWizard"
-2025-04-22T23:45:13.000Z,"I think Trump’s tariff war will end up giving the US more drone capacity, and China more chips for AI."
-2025-04-22T23:02:24.000Z,Sneak peek at tariff negotiations at trump national between cabinet members…
-2025-04-22T23:59:56.000Z,"Up 1,000 points, but 42,00 below where it was when the idiotic tariff policies went into effect."
-2025-04-22T23:42:06.000Z,#tariff
+ @GasPriceWizard",positive
+2025-04-22T23:45:13.000Z,"I think Trump’s tariff war will end up giving the US more drone capacity, and China more chips for AI.",negative
+2025-04-22T23:02:24.000Z,Sneak peek at tariff negotiations at trump national between cabinet members…,neutral
+2025-04-22T23:59:56.000Z,"Up 1,000 points, but 42,00 below where it was when the idiotic tariff policies went into effect.",negative
+2025-04-22T23:42:06.000Z,#tariff,neutral
 2025-04-22T23:29:12.000Z,"Does Trump’s tariff math add up? https://msn.com/en-gb/money/other/does-trump-s-tariff-math-add-up/vi-AA1DoWyQ?ocid=socialshare#details… 
 
-#Trump #TrumpTariffs #zelena #shailenzo"
+#Trump #TrumpTariffs #zelena #shailenzo",neutral
 2025-04-22T23:03:42.000Z,"Bloomberg confirms that Trump is about to capitulate on his own tariff war.
 
-The Art of the Deal has turned into a Fart without a Deal."
-2025-04-22T23:50:42.000Z,"Really?  I hope he is telling the truth on this one. Otherwise the global economy may never recover from Trump’s self-inflicted tariff crisis. Faith in the US$ is sliding, and once-friendly nations no longer trust anything he says. Psycho…"
+The Art of the Deal has turned into a Fart without a Deal.",negative
+2025-04-22T23:50:42.000Z,"Really?  I hope he is telling the truth on this one. Otherwise the global economy may never recover from Trump’s self-inflicted tariff crisis. Faith in the US$ is sliding, and once-friendly nations no longer trust anything he says. Psycho…",negative
 2025-04-22T23:19:36.000Z,"They make the originals there 
 
-Wit this tariff war they gon keep making American products but they gon give the blueprint to rep factories lmao"
-2025-04-22T23:15:14.000Z,The United States has imposed a blanket 10% tariff on nearly all imports and a 145% tariff on most imports from China. Here is what these moves could mean for Oklahoma agriculture.
-2025-04-22T23:59:54.000Z,the latest bout of tariff threats can be observed through the lens of price discovery. the US put up a high ask to see just how much power they still held onto. the bids came in way lower than expected and now we all know for a fact that this is no longer a unipolar system
+Wit this tariff war they gon keep making American products but they gon give the blueprint to rep factories lmao",positive
+2025-04-22T23:15:14.000Z,The United States has imposed a blanket 10% tariff on nearly all imports and a 145% tariff on most imports from China. Here is what these moves could mean for Oklahoma agriculture.,positive
+2025-04-22T23:59:54.000Z,the latest bout of tariff threats can be observed through the lens of price discovery. the US put up a high ask to see just how much power they still held onto. the bids came in way lower than expected and now we all know for a fact that this is no longer a unipolar system,negative
 2025-04-22T23:33:06.000Z," U.S. Seeks UK Car Tariff Cut to 2.5% in Pre-Trade Deal Push, Report Says
 
  Summary:
 
 The Trump administration is pushing for Britain to slash its automotive tariff from 10% to 2.5% as part of early trade negotiations, The Wall Street Journal reports.
 
-Talks will also"
+Talks will also",negative
 2025-04-22T23:34:30.000Z,"So, we are back to no deal with China? 
 But this time we are saying it in a NICER tone?
 
 Tariff is still ON, but not 145%? also, not ZERO?
 
-HELP decode this..."
+HELP decode this...",positive
 2025-04-22T23:23:46.000Z,"Hey inmates, we’re pushing the #JAILTARIFF launch back by 1 more week. Gotta make sure the cellblock’s airtight before we open the gates. Smart contracts need some final tweaks. Thanks for holding on— Crypto's next PVE runner is coming soon  
 
-#DeFi #Crypto #JAILTARIFF"
+#DeFi #Crypto #JAILTARIFF",positive
 2025-04-22T23:49:50.000Z,"Trump America 1st = 1. Make it in America or pay Tariff’s  2. Troops at the border asap 
 3. Federal Employees take your ass in the office or get fired 4. Birth rights citizenship must END 5. End DEI this has nothing to do with BLACKs
-6. Deportation Operation 7. WHO be gone"
+6. Deportation Operation 7. WHO be gone",negative
 2025-04-22T23:55:08.000Z,"They have always made wrong assumptions for Pakistan and they are still making mistakes at the wrong time. At a fragile juncture when wars are looming on all sides, #China is out of it's den. The US is in the grip of hot wars, a trade recession, and a tariff crisis. 
-#Pahalgam"
-2025-04-22T23:29:58.000Z,"So ,on the day they said they're making a tariff deal with the USA they get attacked.  Got it"
-2025-04-22T23:13:11.000Z,If only they had done a gradually increasing global tariff
-2025-04-22T23:57:09.000Z,Kebijakakan Resiprocal tariff yang dicanangkan Pemerintah USA akan berpengaruh terhadap pola perdagangan luar negeri Indonesia.  para penerima fasilitas Tempat Penimbunan Berikat  juga akan terdampak terutama para pengusaha dengan pangsa pasar Amerika.
+#Pahalgam",negative
+2025-04-22T23:29:58.000Z,"So ,on the day they said they're making a tariff deal with the USA they get attacked.  Got it",negative
+2025-04-22T23:13:11.000Z,If only they had done a gradually increasing global tariff,neutral
+2025-04-22T23:57:09.000Z,Kebijakakan Resiprocal tariff yang dicanangkan Pemerintah USA akan berpengaruh terhadap pola perdagangan luar negeri Indonesia.  para penerima fasilitas Tempat Penimbunan Berikat  juga akan terdampak terutama para pengusaha dengan pangsa pasar Amerika.,neutral
 2025-04-22T23:59:52.000Z,"US Treasury Secretary Scott Bessent told a closed-door investor summit Tuesday that the tariff standoff with China is unsustainable and that he expects the situation to de-escalate. https://bloomberg.com/news/articles/2025-04-22/bessent-sees-de-escalation-with-china-situation-unsustainable?utm_source=website&utm_medium=share&utm_campaign=twitter… via 
-@bpolitics"
-2025-04-22T23:50:53.000Z,The reported Trump-Xi meeting highlights the administration's scramble to stabilize relations after months of tariff chaos. The 145% duties on Chinese goods and retaliatory 125% Chinese tariffs have already triggered a 12% drop in bilateral trade volumes Q1 2025 (Commerce Dept
+@bpolitics",positive
+2025-04-22T23:50:53.000Z,The reported Trump-Xi meeting highlights the administration's scramble to stabilize relations after months of tariff chaos. The 145% duties on Chinese goods and retaliatory 125% Chinese tariffs have already triggered a 12% drop in bilateral trade volumes Q1 2025 (Commerce Dept,negative
 2025-04-22T23:42:50.000Z,"Reality of Trump’s Tariff Policies, Pope Francis' Legacy, and Lockdown L... https://youtu.be/Dq7tfsycKG8?si=6CfOdPRi1a4GwG-V… via 
-@YouTube"
-2025-04-22T23:00:05.000Z,"Judd Dunning: ""In reality, Trump's tariff play is a smart and strategic move that's already producing for America's workers and economy."" https://bit.ly/4cTbMX1"
-2025-04-22T23:43:27.000Z,Nice move from $HRUM.IJ yesterday. The  selloff just before Eid and then the tariff-driven meltdown post Eid was overdone
+@YouTube",neutral
+2025-04-22T23:00:05.000Z,"Judd Dunning: ""In reality, Trump's tariff play is a smart and strategic move that's already producing for America's workers and economy."" https://bit.ly/4cTbMX1",positive
+2025-04-22T23:43:27.000Z,Nice move from $HRUM.IJ yesterday. The  selloff just before Eid and then the tariff-driven meltdown post Eid was overdone,positive
 2025-04-22T22:49:36.000Z,"Did anyone ever doubt that the tariff disaster would be spun as a win for Trump? 
 
 Manufacturing won’t comeback. The tariffs didn’t work. China didn’t blink.
 
-But it was all part of the “master plan”. Jesus Christ, save us. "
-2025-04-22T23:27:20.000Z,"They do cause a problem in the Market. I literally buy steel products & resale 'em. Specifically, Metal Tacktite. The manufacturer, buys the steel from asia, with a 30% Tariff. The og price of the tacktite has a 30% surcharge added to it. I pass it on to my clients when they buy."
+But it was all part of the “master plan”. Jesus Christ, save us. ",positive
+2025-04-22T23:27:20.000Z,"They do cause a problem in the Market. I literally buy steel products & resale 'em. Specifically, Metal Tacktite. The manufacturer, buys the steel from asia, with a 30% Tariff. The og price of the tacktite has a 30% surcharge added to it. I pass it on to my clients when they buy.",negative
 2025-04-22T23:30:19.000Z,"Tariff on! Tariff off! 
 Tariff on! Tariff off!
 
@@ -217,45 +217,45 @@ China wins!
 
 Art of the Deal!
 
-Right? "
-2025-04-22T23:43:04.000Z,"US seeks UK to ease agricultural import rules, lower auto tariff from 10% to 2.5% - WSJ"
+Right? ",positive
+2025-04-22T23:43:04.000Z,"US seeks UK to ease agricultural import rules, lower auto tariff from 10% to 2.5% - WSJ",positive
 2025-04-22T23:50:28.000Z,"Following reports that countries wanting US tariff relief will be pressured to curb their trade with the PRC, 
 @j_laurenceson
  examines the question 'Should Australia line up with the US and form an anti-China economic bloc?' in 
-@canberratimes"
-2025-04-22T23:37:07.000Z,"As U.S. VP visits India, all eyes on New Delhi’s tariff strategy"
+@canberratimes",positive
+2025-04-22T23:37:07.000Z,"As U.S. VP visits India, all eyes on New Delhi’s tariff strategy",neutral
 2025-04-22T23:50:57.000Z,"I appreciate the fact that Trump and his advisors are dialing back their aggressive tariff policies and attacks on the Fed’s independence.
 
-They made a mistake and appear to be correcting it. This is what I like to see!"
-2025-04-22T23:52:16.000Z,"#Trump looks set to de-escalate #TradeWar with #China. In one sense, this is good news for obvious reasons, as the 'tit for tat' #tariff's aren't doing any side any good. But it also has risk, especially if it appears that the Trump Administration has 'caved' in the face of"
+They made a mistake and appear to be correcting it. This is what I like to see!",negative
+2025-04-22T23:52:16.000Z,"#Trump looks set to de-escalate #TradeWar with #China. In one sense, this is good news for obvious reasons, as the 'tit for tat' #tariff's aren't doing any side any good. But it also has risk, especially if it appears that the Trump Administration has 'caved' in the face of",positive
 2025-04-22T23:51:40.000Z,"ADA back up over a dollar buck!!
 
 I guess that’s one benefit due to tariff uncertainty and when people have lost confidence US Stockmarket, the US dollar, the US bond market and general economic direction of the US. 
 
-Gold, BTC, ADA."
+Gold, BTC, ADA.",positive
 2025-04-22T23:02:00.000Z,"เลื่อนเจรจา ‘ทรัมป์’ ทบทวนข้อเสนอใหม่? | #บทบรรณาธิการกรุงเทพธุรกิจ
 
-เดิมทีวันนี้ (23 เม.ย.) ทีมไทยแลนด์นำโดย “พิชัย ชุณหวชิร” รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง มีกำหนดเข้าเจรจาการค้ากับสหรัฐ เพื่อต่อรองภาษีตอบโต้ (Reciprocal Tariff) ที่ประธานาธิบดี โดนัลด์ ทรัมป์"
+เดิมทีวันนี้ (23 เม.ย.) ทีมไทยแลนด์นำโดย “พิชัย ชุณหวชิร” รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง มีกำหนดเข้าเจรจาการค้ากับสหรัฐ เพื่อต่อรองภาษีตอบโต้ (Reciprocal Tariff) ที่ประธานาธิบดี โดนัลด์ ทรัมป์",neutral
 2025-04-22T23:56:46.000Z,"Trump: tariff on China won’t be 145%, it will come down substantially but it won’t be zero
 
 Trump: will not fire Powell 
 
-So what has changed?"
+So what has changed?",positive
 2025-04-22T23:58:07.000Z," $JailTariff just launched our official Telegram! 
 The community is live, the hype is real, and we’re locking in gains faster than Trump locks up tariffs. 
 This is your signal to get bullish:
  Meme power + political chaos = viral fuel
- Day 1 community = early alpha"
+ Day 1 community = early alpha",negative
 2025-04-22T23:21:38.000Z,"If Scott Bessent can move markets merely with comments that a trade truce is coming, imagine how they’d respond if the President simply called the whole tariff thing off. https://wsj.com/opinion/markets-scott-bessent-tariffs-china-donald-trump-trade-war-73b92b5b?st=evURcd… via 
-@WSJopinion"
-2025-04-22T23:36:51.000Z,Markets Soar As Treasury Secretary Reportedly Says Tariff Standoff With China Is Unsustainable And Set To De-Escalate https://msn.com/en-us/money/markets/markets-soar-as-treasury-secretary-reportedly-says-tariff-standoff-with-china-is-unsustainable-and-set-to-de-escalate/ar-AA1DoSdt?ocid=socialshare…
-2025-04-22T23:31:26.000Z,livestock  domestic animals or fowls beast animal place tariffs on chickens coming from China to the united states then tariff the taxes to reflect what is going on as everybody wants enterprise zones in los angeles and let's get to root causes of poverty with those who yell
+@WSJopinion",neutral
+2025-04-22T23:36:51.000Z,Markets Soar As Treasury Secretary Reportedly Says Tariff Standoff With China Is Unsustainable And Set To De-Escalate https://msn.com/en-us/money/markets/markets-soar-as-treasury-secretary-reportedly-says-tariff-standoff-with-china-is-unsustainable-and-set-to-de-escalate/ar-AA1DoSdt?ocid=socialshare…,positive
+2025-04-22T23:31:26.000Z,livestock  domestic animals or fowls beast animal place tariffs on chickens coming from China to the united states then tariff the taxes to reflect what is going on as everybody wants enterprise zones in los angeles and let's get to root causes of poverty with those who yell,negative
 2025-04-22T23:56:50.000Z," Macro Updates
 
  #Trump says he's “doing fine” with China—No #Powell firing
  #Markets rebound as #Treasury Sec. #Bessent signals China #tariff relief
  Trump: China tariffs to fall substantially after a deal
- #JDVance & #Modi tout progress in U.S.-India trade talks"
+ #JDVance & #Modi tout progress in U.S.-India trade talks",positive
 2025-04-22T23:20:37.000Z,"ALERT
 Statoversians!
 
@@ -268,36 +268,36 @@ Here’s your first look at the upcoming figure! Design is not final. Stay tuned
 
 The StateOverse is Now 
 Tariff FREE 
-Toy Entertainment News"
+Toy Entertainment News",positive
 2025-04-22T23:42:00.000Z,"“The tariff tax base is a lot smaller than the income tax base,” 
 @KClausing
- says. And with higher tariff rates, people will buy fewer imported goods, which reduces revenue... “That’s part of the point of the policy.”"
-2025-04-22T23:44:50.000Z,"Halliburton warns of tariff impact, lower North America oilfield activity"
+ says. And with higher tariff rates, people will buy fewer imported goods, which reduces revenue... “That’s part of the point of the policy.”",neutral
+2025-04-22T23:44:50.000Z,"Halliburton warns of tariff impact, lower North America oilfield activity",negative
 2025-04-22T23:21:40.000Z,"Majority cant see this "" Trump tariff war has already done a lot of damages to US economy. The world (friends and foes) will no longer look at US the same way. Brace yourselves for the impact"" Debt Market Collapse still coming 
-@DavidLe76335983"
+@DavidLe76335983",negative
 2025-04-22T23:38:04.000Z,"Daily look at the major indexes
 
 $SPY $QQQ $IWM
 
 trading below the major moving averages but putting in a potential higher low here
 
-this could setup for a follow through day tomorrow if we can pop out of these flags and get back over the tariff pause highs from 2 weeks ago"
+this could setup for a follow through day tomorrow if we can pop out of these flags and get back over the tariff pause highs from 2 weeks ago",negative
 2025-04-22T23:29:49.000Z,"This Feels True. 
 Look at Tesla Earnings. 
 
-If others Miss and Tariff War Rages its Bad Juju."
+If others Miss and Tariff War Rages its Bad Juju.",negative
 2025-04-22T23:51:06.000Z," BREAKING : Presiden Donald Trump & Presiden Xi Jinping akan bertemu di bulan Mei mendatang. 
 
 Kira-kira bakal ada titik terang negosiasi tariff gak nih?
 
-Jangan berantem plis, yang kena soalnya SATU DUNIA"
-2025-04-22T23:56:45.000Z,Ross you have more history than me on the name but I felt he did enough to redirect the narrative in the near term- now he needs to go back to DC for a bit as he threw Trump under the bus for his tariff policies-
-2025-04-22T23:16:24.000Z,"Biotech I loved. Everything else I hated. That is how I feel in the biggest market bubble in history. Wait until the tariff collapse rocks through to the number and investors panic. I suspect S&P 4,150 and NASDAQ 12,500 by year end."
-2025-04-22T23:20:19.000Z,"Bitcoin has been rising strongly since Easter Sunday, amid the tariff war, with Trump fighting with Jerome Powell, with high interest rates, with stock market crashes, without the FED increasing M2, that is, Bitcoin is independent. $BTC #Trump #Crypto"
+Jangan berantem plis, yang kena soalnya SATU DUNIA",neutral
+2025-04-22T23:56:45.000Z,Ross you have more history than me on the name but I felt he did enough to redirect the narrative in the near term- now he needs to go back to DC for a bit as he threw Trump under the bus for his tariff policies-,neutral
+2025-04-22T23:16:24.000Z,"Biotech I loved. Everything else I hated. That is how I feel in the biggest market bubble in history. Wait until the tariff collapse rocks through to the number and investors panic. I suspect S&P 4,150 and NASDAQ 12,500 by year end.",negative
+2025-04-22T23:20:19.000Z,"Bitcoin has been rising strongly since Easter Sunday, amid the tariff war, with Trump fighting with Jerome Powell, with high interest rates, with stock market crashes, without the FED increasing M2, that is, Bitcoin is independent. $BTC #Trump #Crypto",negative
 2025-04-22T23:52:48.000Z,"I’ve lost roughly $4k on my Roth IRA since this tariff  crap. My bank guy s
-Asked me why i haven’t done my $500 payment this month.. well because last month it was gone in 3 min of me posting it. F that"
-2025-04-22T23:24:50.000Z,Since tariff ain’t bringing in the money let’s yank the rug off the struggling student while giving billions and trillions to the billionaires
-2025-04-22T23:51:47.000Z,"And Nasdaq futures ""break"" the downtrend on a (pre) announced tariff cut on China"
+Asked me why i haven’t done my $500 payment this month.. well because last month it was gone in 3 min of me posting it. F that",negative
+2025-04-22T23:24:50.000Z,Since tariff ain’t bringing in the money let’s yank the rug off the struggling student while giving billions and trillions to the billionaires,negative
+2025-04-22T23:51:47.000Z,"And Nasdaq futures ""break"" the downtrend on a (pre) announced tariff cut on China",negative
 2025-04-22T23:48:55.000Z,"Conspiracy Theory:
 
 Trump timed the tariff removal to coincide with Tesla's earnings.
@@ -306,73 +306,73 @@ He knew the numbers were bad, and this move was meant to prevent the stock from 
 
 Will the tariffs return?
 
-$TSLA"
-2025-04-22T23:25:11.000Z,Call me cray but I believe the risk adjusted PV(Chyna tariff impact) is more negative now than it was yday due to now lower discount rate on the longer fuse
-2025-04-22T23:09:04.000Z,"IMF warns of a slowdown in global economic growth due to unpredictable tariff policies and countermeasures by trading partners. The forecast shows a sharp downgrade in U.S. growth, with the IMF citing President Donald Trump's tariffs as a major factor."
-2025-04-22T23:06:48.000Z,"CRYPTO Flips Bullish On Tariff News! CARDANO Has ""Upper Hand""(USE CAUTION)"
+$TSLA",negative
+2025-04-22T23:25:11.000Z,Call me cray but I believe the risk adjusted PV(Chyna tariff impact) is more negative now than it was yday due to now lower discount rate on the longer fuse,negative
+2025-04-22T23:09:04.000Z,"IMF warns of a slowdown in global economic growth due to unpredictable tariff policies and countermeasures by trading partners. The forecast shows a sharp downgrade in U.S. growth, with the IMF citing President Donald Trump's tariffs as a major factor.",positive
+2025-04-22T23:06:48.000Z,"CRYPTO Flips Bullish On Tariff News! CARDANO Has ""Upper Hand""(USE CAUTION)",neutral
 2025-04-22T23:24:32.000Z,"I have consistently said 5-10% blanket tariff on all imports and remove them for the products we want to incentivize into the country.
 
-Looks like that is what we are going to end up with "
-2025-04-22T22:55:51.000Z,"BERN: Swiss pharmaceutical giant Roche announced plans to invest $50 billion in the US over the next five years, with President Trump‘s tariff war fueling uncertainty in the sector."
-2025-04-22T23:42:47.000Z,"So now we will not impose a 14,500bps tariff on China?"
-2025-04-22T23:43:58.000Z,"With investor sentiment swinging from optimism to pessimism with every tariff headline, major USD pairs are caught in the crossfire. What happens to the greenback when all the trade drama ends?"
+Looks like that is what we are going to end up with ",positive
+2025-04-22T22:55:51.000Z,"BERN: Swiss pharmaceutical giant Roche announced plans to invest $50 billion in the US over the next five years, with President Trump‘s tariff war fueling uncertainty in the sector.",negative
+2025-04-22T23:42:47.000Z,"So now we will not impose a 14,500bps tariff on China?",positive
+2025-04-22T23:43:58.000Z,"With investor sentiment swinging from optimism to pessimism with every tariff headline, major USD pairs are caught in the crossfire. What happens to the greenback when all the trade drama ends?",positive
 2025-04-22T23:33:35.000Z,"Today we've seen:
 
 - $MMM close up 8% in spite of forecasting an $850M annualized tariff impact prior to ""mitigation actions"" (compares with 2024 EBIT of $5.1B)
 
-- $SAP, $PEGA and $MANH all jump post-earnings (points to software demand/bookings holding up better than feared for"
-2025-04-22T23:34:31.000Z,Dow Jones Explodes as Stocks Soar Into 4-Digit Gains on Trump Tariff News
+- $SAP, $PEGA and $MANH all jump post-earnings (points to software demand/bookings holding up better than feared for",negative
+2025-04-22T23:34:31.000Z,Dow Jones Explodes as Stocks Soar Into 4-Digit Gains on Trump Tariff News,positive
 2025-04-22T23:17:59.000Z,"china mogged the US clown cabinet but let's not focus too deeply on how much international respect the current US admin has lost during this tariff stunt(that they are walking back step by step every day)
 
 Coins are sending again
 
-Next new moon we deploy agen, patient"
+Next new moon we deploy agen, patient",positive
 2025-04-22T23:47:21.000Z,"Fee-Fallin’: Why “Tariff Fees” Are Not A Quick Fix to Offset New Costs https://jdsupra.com/legalnews/fee-fallin-why-tariff-fees-are-not-a-2520711/… | by 
-@beneschlaw"
-2025-04-22T23:39:11.000Z,Wall St ends higher on hopes of easing tariff tensions http://dlvr.it/TKJrcm
+@beneschlaw",neutral
+2025-04-22T23:39:11.000Z,Wall St ends higher on hopes of easing tariff tensions http://dlvr.it/TKJrcm,positive
 2025-04-22T23:58:43.000Z,"Just got back to the screens to see that 
 @realDonaldTrump
- looks to have folded like a wet noodle. Two thoughts: i) Even if the tariff issue is resolved w/ most of the world, we still have no idea where it will settle w/ China; that's a major econ hangover. ii) W/ the bulk of the"
-2025-04-22T23:40:11.000Z,I install gas-powered generators at no cost. Tariff is way cheaper than the alternatives and you get 24 hours supply
+ looks to have folded like a wet noodle. Two thoughts: i) Even if the tariff issue is resolved w/ most of the world, we still have no idea where it will settle w/ China; that's a major econ hangover. ii) W/ the bulk of the",positive
+2025-04-22T23:40:11.000Z,I install gas-powered generators at no cost. Tariff is way cheaper than the alternatives and you get 24 hours supply,negative
 2025-04-22T23:34:45.000Z,"No applause for admitting  America's high tariffs  on China are wrong when all economists said so, except Navarro who was called ""a moron"" by 
 @elonmusk
-    ""Bessent says he expects 'de-escalation' in U.S.-China tariff fight in the 'very near future' """
-2025-04-22T23:21:51.000Z,brazenly leaking the China tariff news early to insiders 
-2025-04-22T23:31:00.000Z,"UPDATE 1-US will aim for UK to cut its automotive tariff from 10% to 2.5%, WSJ reports https://ift.tt/QOcar9n"
+    ""Bessent says he expects 'de-escalation' in U.S.-China tariff fight in the 'very near future' """,negative
+2025-04-22T23:21:51.000Z,brazenly leaking the China tariff news early to insiders ,neutral
+2025-04-22T23:31:00.000Z,"UPDATE 1-US will aim for UK to cut its automotive tariff from 10% to 2.5%, WSJ reports https://ift.tt/QOcar9n",negative
 2025-04-22T23:38:48.000Z,"Had many never heard ""140% tariff on China"" and just gone to 10-30% (and 10% for most of (ROW), many would have cause for great concern for S&P 500 earnings.
 
 But many want to be the swashbuckling, bottom-calling trader.
 
-I was an arrogant kid on Wall Street, but not like this."
-2025-04-22T23:57:17.000Z,"Emiten oil and gas tinggal Breakout aja (utk bnyak emiten), Somehow curiga ada katalis yg menaikan nya minggu depan. antara tariff atau pnyerangan, Sngaja dinaikin harganya. Yg mau BOW emiten migas boleh klo dapat."
-2025-04-22T23:59:28.000Z,#AUD/#USD: Seasonal Weakness Aligns With Tariff Risk $FXA $UUP
-2025-04-22T23:56:21.000Z,"A pro digital assets SEC chair + tradfi readying itself to enter the crypto space at scale.  Once the tariff wars settle down, we should see an extremely strong bounce back up for cryptocurrency."
-2025-04-22T23:31:39.000Z,"Trump's statement on April 22, 2025, suggests the 145% tariff on Chinese imports, comprising a 125% increase plus a 20% existing tariff, is a negotiating tactic. He believes it’s too high and expects a trade deal to lower it, benefiting both the US and China. Recent reports"
-2025-04-22T23:29:21.000Z,Do you think the tariff wars could end soon??
-2025-04-22T23:44:21.000Z,"The tariff talk is driving market jitters, but no clear ""capitulation"" happened today. Bond futures staying flat suggests investors aren't buying the idea of a quick trade war fix. Trump's April 9 tariff pause, except for China, sparked some optimism, but uncertainty lingers—see"
-2025-04-22T23:30:16.000Z,Fed’s Kugler Says Tariff Impact Likely Larger Than Expected
-2025-04-22T23:35:58.000Z,"Morning Report : Wall Street ends higher on earnings, hopes of easing tariff tensions"
-2025-04-22T23:45:10.000Z,"Obviously a tariff rollback is better than the alternative but in the short to medium term the cake is basically baked. Businesses are going to plan for uncertainty, higher costs, and higher rates for the next few years."
-2025-04-22T23:14:03.000Z,Trump teases China tariff cut
-2025-04-22T23:56:05.000Z," BTC/USDT at $93,515 (+7.17%) igniting a macroeconomic chain reaction—tariff escalations, QQQ/SPY divergence, and bond market tremors converging into the ultimate storm. Bitcoin piercing through resistance ($93K), structurally decoupling from fiat turmoil amid record DXY"
-2025-04-22T23:53:18.000Z,We aren’t even higher than the “tariff pause” rally and $TSLA just dropped one of the worst mega cap quarterly earnings ever. Okay then.
-2025-04-22T23:44:56.000Z,Woodside Energy Assessing Tariff Impact on Louisiana LNG Project
-2025-04-22T23:58:59.000Z,Hints Of China Tariff Deal In Works - CDM - Human Reporters • Not Machines
+I was an arrogant kid on Wall Street, but not like this.",negative
+2025-04-22T23:57:17.000Z,"Emiten oil and gas tinggal Breakout aja (utk bnyak emiten), Somehow curiga ada katalis yg menaikan nya minggu depan. antara tariff atau pnyerangan, Sngaja dinaikin harganya. Yg mau BOW emiten migas boleh klo dapat.",neutral
+2025-04-22T23:59:28.000Z,#AUD/#USD: Seasonal Weakness Aligns With Tariff Risk $FXA $UUP,negative
+2025-04-22T23:56:21.000Z,"A pro digital assets SEC chair + tradfi readying itself to enter the crypto space at scale.  Once the tariff wars settle down, we should see an extremely strong bounce back up for cryptocurrency.",positive
+2025-04-22T23:31:39.000Z,"Trump's statement on April 22, 2025, suggests the 145% tariff on Chinese imports, comprising a 125% increase plus a 20% existing tariff, is a negotiating tactic. He believes it’s too high and expects a trade deal to lower it, benefiting both the US and China. Recent reports",neutral
+2025-04-22T23:29:21.000Z,Do you think the tariff wars could end soon??,negative
+2025-04-22T23:44:21.000Z,"The tariff talk is driving market jitters, but no clear ""capitulation"" happened today. Bond futures staying flat suggests investors aren't buying the idea of a quick trade war fix. Trump's April 9 tariff pause, except for China, sparked some optimism, but uncertainty lingers—see",negative
+2025-04-22T23:30:16.000Z,Fed’s Kugler Says Tariff Impact Likely Larger Than Expected,neutral
+2025-04-22T23:35:58.000Z,"Morning Report : Wall Street ends higher on earnings, hopes of easing tariff tensions",positive
+2025-04-22T23:45:10.000Z,"Obviously a tariff rollback is better than the alternative but in the short to medium term the cake is basically baked. Businesses are going to plan for uncertainty, higher costs, and higher rates for the next few years.",negative
+2025-04-22T23:14:03.000Z,Trump teases China tariff cut,negative
+2025-04-22T23:56:05.000Z," BTC/USDT at $93,515 (+7.17%) igniting a macroeconomic chain reaction—tariff escalations, QQQ/SPY divergence, and bond market tremors converging into the ultimate storm. Bitcoin piercing through resistance ($93K), structurally decoupling from fiat turmoil amid record DXY",negative
+2025-04-22T23:53:18.000Z,We aren’t even higher than the “tariff pause” rally and $TSLA just dropped one of the worst mega cap quarterly earnings ever. Okay then.,negative
+2025-04-22T23:44:56.000Z,Woodside Energy Assessing Tariff Impact on Louisiana LNG Project,positive
+2025-04-22T23:58:59.000Z,Hints Of China Tariff Deal In Works - CDM - Human Reporters • Not Machines,neutral
 2025-04-22T23:49:07.000Z,"I’ve been commenting and having some fun here with the tariff shit show the last few weeks, but in all seriousness…
 
-If anyone thinks that Trump walking back tariffs on China is going to suddenly restart a bull market and everything is suddenly resolved, you’re in for a rude"
+If anyone thinks that Trump walking back tariffs on China is going to suddenly restart a bull market and everything is suddenly resolved, you’re in for a rude",negative
 2025-04-22T23:35:21.000Z,"Trump tariff shockwaves already buffeting Asian shores https://asiatimes.com/2025/04/trump-tariff-shockwaves-already-buffeting-asian-shores/… via 
-@asiatimesonline"
-2025-04-22T23:24:29.000Z,"The claims you mentioned stem from recent X discussions. First, Trump’s tariffs on Chinese imports are indeed at 145% in 2025, combining a 20% IEEPA tariff and a 125% reciprocal tariff, as confirmed by economic reports. Second, there’s no evidence Nike is manufacturing socks in"
+@asiatimesonline",neutral
+2025-04-22T23:24:29.000Z,"The claims you mentioned stem from recent X discussions. First, Trump’s tariffs on Chinese imports are indeed at 145% in 2025, combining a 20% IEEPA tariff and a 125% reciprocal tariff, as confirmed by economic reports. Second, there’s no evidence Nike is manufacturing socks in",negative
 2025-04-22T23:30:00.000Z,"Tariffs bringing turmoil...
 
 All around a recent farm show in Canada, salespeople struggled to swing deals with farmers worried about #tariffs. With some combines topping $800,000, unexpected tariffs could strain most farm budgets.
 
-The tariff possibilities Canada still faces "
-2025-04-22T23:45:59.000Z," The U.S. aims to cut the UK's automotive tariff from 10% to 2.5%, paving the way for potential trade negotiations. British finance minister Reeves is set to advocate for a favorable trade deal. Key developments in transatlantic trade could reshape mar…"
+The tariff possibilities Canada still faces ",negative
+2025-04-22T23:45:59.000Z," The U.S. aims to cut the UK's automotive tariff from 10% to 2.5%, paving the way for potential trade negotiations. British finance minister Reeves is set to advocate for a favorable trade deal. Key developments in transatlantic trade could reshape mar…",positive
 2025-04-22T23:30:00.000Z,"Thinking of selling amidst tariff talk? Why 
 @KennethLFisher
  says that’s a dangerous game, in the 
 @NYPost
-:"
-2025-04-22T23:48:05.000Z,"Everyone needs to tariff China, they have a moat on production that needs to be eroded for anyone else to be competitive"
+:",negative
+2025-04-22T23:48:05.000Z,"Everyone needs to tariff China, they have a moat on production that needs to be eroded for anyone else to be competitive",positive

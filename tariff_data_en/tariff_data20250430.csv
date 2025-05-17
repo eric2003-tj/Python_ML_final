@@ -1,31 +1,31 @@
-Timestamp,Tweet Content
-2025-04-30T23:29:14.000Z,"“I’ll give you want you want, just let me open my handy-dandy Fanny pack…”"
-2025-04-30T23:57:34.000Z,It looks like the ‘Tariffs don’t work’ crowd owes President Trump a big apology. Tariff revenue just smashed records. $15.9 Billion collected so far this month alone.”
+Timestamp,Tweet Content,sentiment
+2025-04-30T23:29:14.000Z,"“I’ll give you want you want, just let me open my handy-dandy Fanny pack…”",positive
+2025-04-30T23:57:34.000Z,It looks like the ‘Tariffs don’t work’ crowd owes President Trump a big apology. Tariff revenue just smashed records. $15.9 Billion collected so far this month alone.”,positive
 2025-04-30T23:40:09.000Z," U.S. Economy Contracts Amid Tariff Uncertainty
 
-In the early months of President Trump’s second term, U.S. GDP shrank at a 0.3% annualized rate, down from 2.4% in late 2024. The decline, driven by a surge in imports as businesses stockpiled to dodge proposed tariffs, was"
+In the early months of President Trump’s second term, U.S. GDP shrank at a 0.3% annualized rate, down from 2.4% in late 2024. The decline, driven by a surge in imports as businesses stockpiled to dodge proposed tariffs, was",negative
 2025-04-30T23:48:11.000Z,"Lauren Conrad trends spring 2025 tariff-free Kohl’s denim vest 
 @LaurenConrad
  @Kohls
- #KohlsFinds #Tariffs - Barcelona https://danielpluslauren.com/2025/04/30/lauren-conrad-trends-spring-2025-tariff-free-kohls-denim-vest/…"
-2025-04-30T23:35:37.000Z,"“Congress has long enacted laws authorizing the President to adjust tariff rates on goods in certain circumstances. Courts have generally upheld these laws against constitutional challenges,” https://congress.gov/crs-product/R48435…"
-2025-04-30T23:51:24.000Z,it’s tariff this tariff that but where were YOU when when canada took my babysitters a vampire (tv) from us
-2025-04-30T23:30:00.000Z,"Former #Trump State Campaign Chair Rob Artlett defends Trump’s #tariff strategy as “economic equity,” saying it’s a necessary step back to bring manufacturing home and level the playing field for American workers. #WNews"
+ #KohlsFinds #Tariffs - Barcelona https://danielpluslauren.com/2025/04/30/lauren-conrad-trends-spring-2025-tariff-free-kohls-denim-vest/…",neutral
+2025-04-30T23:35:37.000Z,"“Congress has long enacted laws authorizing the President to adjust tariff rates on goods in certain circumstances. Courts have generally upheld these laws against constitutional challenges,” https://congress.gov/crs-product/R48435…",positive
+2025-04-30T23:51:24.000Z,it’s tariff this tariff that but where were YOU when when canada took my babysitters a vampire (tv) from us,neutral
+2025-04-30T23:30:00.000Z,"Former #Trump State Campaign Chair Rob Artlett defends Trump’s #tariff strategy as “economic equity,” saying it’s a necessary step back to bring manufacturing home and level the playing field for American workers. #WNews",negative
 2025-04-30T23:50:00.000Z,"This isn’t about “punishing China” — it’s just slicing global consumers with tariffs disguised as patriotism.
 
-A 145% tariff might sound strong, but it’s essentially a backdoor tax on Americans. In 2023, the U.S. imported over $400B from China — that’s nearly $60B in “invisible"
-2025-04-30T23:55:42.000Z,"This whole thing about Amazon posting tariff costs….   Here’s a thought: When you can select size, color, brand, etc, etc, while shopping; Why don’t they have a selection for AMERICAN MADE???"
-2025-04-30T23:54:14.000Z,"Finally, the US and Ukraine reached a deal over access to Ukraine’s natural resources today. Meanwhile, China has secretly removed items from the tariff list while trying to bolster support from BRICS nations to withstand recent changes. And sadly, the country is also facing an"
+A 145% tariff might sound strong, but it’s essentially a backdoor tax on Americans. In 2023, the U.S. imported over $400B from China — that’s nearly $60B in “invisible",positive
+2025-04-30T23:55:42.000Z,"This whole thing about Amazon posting tariff costs….   Here’s a thought: When you can select size, color, brand, etc, etc, while shopping; Why don’t they have a selection for AMERICAN MADE???",positive
+2025-04-30T23:54:14.000Z,"Finally, the US and Ukraine reached a deal over access to Ukraine’s natural resources today. Meanwhile, China has secretly removed items from the tariff list while trying to bolster support from BRICS nations to withstand recent changes. And sadly, the country is also facing an",positive
 2025-04-30T23:14:51.000Z,"While the US threatens war, supports genocides and engages in tariff wars, China  is cruising technologically and economically. When focus is on mutual development and not hegemonic dominance, everybody thrives. A multipolar world is the new order. #multipolarism 
-@zim_china"
+@zim_china",negative
 2025-04-30T23:43:32.000Z,"How Trump’s tariff chaos is bringing China’s “trade circle of friends” closer
 
 Washington’s hardline approach is likely to boost Beijing’s ties with Brazil and Latin America in general, according to analysts
-https://scmp.com/news/china/diplomacy/article/3308544/how-trumps-tariff-chaos-bringing-chinas-trade-circle-friends-closer…"
+https://scmp.com/news/china/diplomacy/article/3308544/how-trumps-tariff-chaos-bringing-chinas-trade-circle-friends-closer…",negative
 2025-04-30T23:27:28.000Z,"Hello 
 @Amazon
  if you do not post the tariff on my invoices, got any idea how I claim on my taxes as a shipping fee? How to I tell my customers, where the higher price comes from on anything they buy from me? 
-If you don’t post the tariff line, I’m not buying."
+If you don’t post the tariff line, I’m not buying.",positive
 2025-04-30T23:36:14.000Z,"#BreakingNews
 Senate vote to block Trump's tariff powers was 49-49, failing to reach the simple majority needed to pass. 
 
@@ -33,42 +33,42 @@ Senate vote to block Trump's tariff powers was 49-49, failing to reach the simpl
 @RandPaul
   + RINOs Collins & Murkowsk joined Dems in supporting the measure.
 
- McConnell, who previously supported a similar measure, was absent."
-2025-04-30T23:54:08.000Z,I thought the one on the left was Killer Mike
+ McConnell, who previously supported a similar measure, was absent.",negative
+2025-04-30T23:54:08.000Z,I thought the one on the left was Killer Mike,negative
 2025-04-30T23:43:27.000Z," From markets are going to collapse, worst first 100 days, noisy headlines to…
 
-Right back to 5,600 on $SPX . Tune out the Fintwit “experts” on yen carry trade, tariff talk, recession fears, net import vs export and carry on. "
+Right back to 5,600 on $SPX . Tune out the Fintwit “experts” on yen carry trade, tariff talk, recession fears, net import vs export and carry on. ",negative
 2025-04-30T23:50:44.000Z,"If this continues, Trump will claim his tariff strategy as a success, even if it is mostly other good things like cutting waste & tax cuts & reduced regulations, along with the tariffs.
-Tariffs are part of the Trump package, the political reality is you vote the whole bundle."
+Tariffs are part of the Trump package, the political reality is you vote the whole bundle.",positive
 2025-04-30T23:36:11.000Z,"Thesis Research: Selective Tariff Management and Economic Rebalancing Between the U.S. and China 
 
-Abstract: This research examines the strategic use of selective tariffs by the United States and China during periods of U.S. economic easing. The analysis includes historical case"
-2025-04-30T23:55:54.000Z,"In a speech on the 100th day of the inauguration of the government in Michigan, Trump said that illegal border crossing has been reduced by almost 100%, and that China wants to negotiate tariff negotiations. Announced additional tariff reduction measures for auto parts."
-2025-04-30T23:08:54.000Z,"$500 for oem belt and alternator, thanks mercedeseses "
-2025-04-30T23:29:39.000Z,Q1 really didn’t account for tariff implications. Q2 will be a fun one 
+Abstract: This research examines the strategic use of selective tariffs by the United States and China during periods of U.S. economic easing. The analysis includes historical case",positive
+2025-04-30T23:55:54.000Z,"In a speech on the 100th day of the inauguration of the government in Michigan, Trump said that illegal border crossing has been reduced by almost 100%, and that China wants to negotiate tariff negotiations. Announced additional tariff reduction measures for auto parts.",negative
+2025-04-30T23:08:54.000Z,"$500 for oem belt and alternator, thanks mercedeseses ",positive
+2025-04-30T23:29:39.000Z,Q1 really didn’t account for tariff implications. Q2 will be a fun one ,positive
 2025-04-30T23:53:58.000Z,"US Tariffs (aka US Import Duty) 
-If you buy from an overseas manufacturer and ship the product to the US you will pay an import duty (tariff) when the product arrives in the US. Most countries listed are now LOWER import duty. See Attached."
-2025-04-30T23:28:43.000Z,US companies exempt from Chinese 125% tariff reportedly on list
-2025-04-30T23:26:56.000Z,Impeachable? This is fucking criminal.
-2025-04-30T23:38:55.000Z,"Although prices are already high, the citizens who are waiting for the negative effects of high tariffs are now cutting their consumption by saving. Furthermore, the negative impact on GDP due to rising material costs anticipated from the high tariff policy raises concerns about"
+If you buy from an overseas manufacturer and ship the product to the US you will pay an import duty (tariff) when the product arrives in the US. Most countries listed are now LOWER import duty. See Attached.",negative
+2025-04-30T23:28:43.000Z,US companies exempt from Chinese 125% tariff reportedly on list,positive
+2025-04-30T23:26:56.000Z,Impeachable? This is fucking criminal.,negative
+2025-04-30T23:38:55.000Z,"Although prices are already high, the citizens who are waiting for the negative effects of high tariffs are now cutting their consumption by saving. Furthermore, the negative impact on GDP due to rising material costs anticipated from the high tariff policy raises concerns about",negative
 2025-04-30T23:47:01.000Z,"Their mechanism to avoid tariff and Signal scrutiny is a rule that the period between April 29 and September 30 is considered a single day on the House record, preventing any bills introduced from being voted on until October 1, ""the day after""
 
-Weak coward shit from Mike Johnson"
-2025-04-30T23:28:45.000Z,Well said by #Brent. As I said #Microsoft is the best #Mag7 to own. #AI software has nothing to do with tariff and growth is unstopppable. #Microsoft is the last thing #CIO will cut!
+Weak coward shit from Mike Johnson",negative
+2025-04-30T23:28:45.000Z,Well said by #Brent. As I said #Microsoft is the best #Mag7 to own. #AI software has nothing to do with tariff and growth is unstopppable. #Microsoft is the last thing #CIO will cut!,positive
 2025-04-30T23:25:23.000Z,"Thanks to 
 @MarshaBlackburn
  and 
 @SenatorHagerty
-  we all get to pay more import/tariff fees. May you both rot in hell.  It’s Americans paying the tariffs and not the countries dum dums. I’ve already been charged $134 import/tariff fee and thanks to you 2 can expect more "
-2025-04-30T23:40:34.000Z,"$ENVX sees no tariff impact due to Asia-based production and shipments. Interest is rising, and unlike others facing swelling from silicon doping, their architecture controls it well. Energy density still has room to improve."
-2025-04-30T23:39:18.000Z,Small US businesses that import or rely on imports from China are going to get hit much harder than larger US companies. They cannot simply find other sources elsewhere in East Asia (or closer to home). And every day that goes by with current tariff levels means more damage.
-2025-04-30T23:55:37.000Z,They can come to the floor and vote on some BULLSHIT tariff vote but can’t get president Trumps agenda passed … Such BULLSHIT  !!
-2025-04-30T23:45:30.000Z,"Because it’s not Reading, Pennsylvania"
-2025-04-30T23:25:19.000Z,This Clever Trick Helps Delta Air Lines Avoid Tariffs On New Planes
+  we all get to pay more import/tariff fees. May you both rot in hell.  It’s Americans paying the tariffs and not the countries dum dums. I’ve already been charged $134 import/tariff fee and thanks to you 2 can expect more ",negative
+2025-04-30T23:40:34.000Z,"$ENVX sees no tariff impact due to Asia-based production and shipments. Interest is rising, and unlike others facing swelling from silicon doping, their architecture controls it well. Energy density still has room to improve.",positive
+2025-04-30T23:39:18.000Z,Small US businesses that import or rely on imports from China are going to get hit much harder than larger US companies. They cannot simply find other sources elsewhere in East Asia (or closer to home). And every day that goes by with current tariff levels means more damage.,negative
+2025-04-30T23:55:37.000Z,They can come to the floor and vote on some BULLSHIT tariff vote but can’t get president Trumps agenda passed … Such BULLSHIT  !!,negative
+2025-04-30T23:45:30.000Z,"Because it’s not Reading, Pennsylvania",neutral
+2025-04-30T23:25:19.000Z,This Clever Trick Helps Delta Air Lines Avoid Tariffs On New Planes,positive
 2025-04-30T23:30:26.000Z,"Amazon's Shocking Tariff Move Angers Trump! https://youtube.com/shorts/CyOS_SjBLEU?si=m5CfW8PWD-qkVHq0… via 
-@YouTube"
+@YouTube",negative
 2025-04-30T23:59:05.000Z,"Walmart dismisses tariff surcharge rumors amid Amazon controversy
-https://bit.ly/4jRIb2l"
+https://bit.ly/4jRIb2l",positive
 2025-04-30T23:52:59.000Z," The 20M $TTEARS Giveaway is complete!
 
 5 lucky winners received their bags over 3 days, slow, fair, and strategic.
@@ -77,7 +77,7 @@ No dump party. No dev tricks. Just deflation and memes.
 
  Proof: https://solscan.io/account/E8KJG6cqX2LbvZ3EQMQwDAxnWMts86kjRRxB4YMt13Wk?exclude_amount_zero=true&remove_spam=true&amount=3999990&amount=4000001&token_address=83jChq3tvbVhuQu6HG6F2oREeZW3K8YcvX3DCBirhQdn#transfers…
 
-#TTEARS #BurnCulture #Solana #CryptoGiveaway #Crypto"
+#TTEARS #BurnCulture #Solana #CryptoGiveaway #Crypto",positive
 2025-04-30T23:55:32.000Z,"ALERT
 Statoversians!
 
@@ -92,69 +92,69 @@ The Revenant
 The StateOverse is Now 
 Tariff FREE 
 Toy Entertainment News 
-TSOVIN!!"
-2025-04-30T23:19:55.000Z, NEW: Ford CEO says President Trump’s tariff policy is “great for the country.”
-2025-04-30T23:38:47.000Z,A 23% national sales tax is a huge burden on American customers. Tariff is a tax on foreign entities that American customers can easily dodge by buying American products. Guess which one does Rand Paul choose?
-2025-04-30T23:39:33.000Z,The Senate is voting on blindsiding Trump by taking his tariff power away! This is not what I voted for!
-2025-04-30T23:49:43.000Z,Shouldn’t need to be voting on this issue anyway. Tariff wars have been around for a very long time and proved to work. Let it be!
-2025-04-30T23:33:00.000Z,The big secret is no one cares. The tariff outrage is almost all performative
-2025-04-30T23:59:56.000Z,Markets are still anticipating Trump to drop the tariffs. Just like how he had to drop them back at the start of the month. If you guys think that implementing Trump's tariff policy without major changes won't have major negative effects then you're probably illiterate.
-2025-04-30T23:54:17.000Z,White House condemns Amazon's alleged plans to highlight tariff surcharges on product listings - https://goo.gl/alerts/Kt7jK9 #GoogleAlerts
-2025-04-30T23:52:26.000Z,"Don't buy from ANYONE who won't itemize ""tariff"" on a purchase receipt.  If State and Local taxes are broken down on sales receipt, then so should tariff taxes be."
+TSOVIN!!",positive
+2025-04-30T23:19:55.000Z, NEW: Ford CEO says President Trump’s tariff policy is “great for the country.”,neutral
+2025-04-30T23:38:47.000Z,A 23% national sales tax is a huge burden on American customers. Tariff is a tax on foreign entities that American customers can easily dodge by buying American products. Guess which one does Rand Paul choose?,positive
+2025-04-30T23:39:33.000Z,The Senate is voting on blindsiding Trump by taking his tariff power away! This is not what I voted for!,neutral
+2025-04-30T23:49:43.000Z,Shouldn’t need to be voting on this issue anyway. Tariff wars have been around for a very long time and proved to work. Let it be!,negative
+2025-04-30T23:33:00.000Z,The big secret is no one cares. The tariff outrage is almost all performative,negative
+2025-04-30T23:59:56.000Z,Markets are still anticipating Trump to drop the tariffs. Just like how he had to drop them back at the start of the month. If you guys think that implementing Trump's tariff policy without major changes won't have major negative effects then you're probably illiterate.,positive
+2025-04-30T23:54:17.000Z,White House condemns Amazon's alleged plans to highlight tariff surcharges on product listings - https://goo.gl/alerts/Kt7jK9 #GoogleAlerts,negative
+2025-04-30T23:52:26.000Z,"Don't buy from ANYONE who won't itemize ""tariff"" on a purchase receipt.  If State and Local taxes are broken down on sales receipt, then so should tariff taxes be.",negative
 2025-04-30T23:30:01.000Z,"Too many freelancers are worried over AI and tariffs. Don't be - Learn why. 
 
 https://bit.ly/4cjTFZX 
 
-#tariffs #tariff #AI #AIwritingtools #freelancewriting #freelancewriters #freelancers #freelancing #freelancerevolution"
-2025-04-30T23:17:15.000Z,This could be the end of modern conservativism in America now that Senate Republicans have tied their fate to Trump's tariff plan 
-2025-04-30T23:57:04.000Z,Markets are jittery as Q1 GDP shrinks 0.3%. Tariff tensions and economic uncertainty are testing investor nerves. Stay agile and informed.
+#tariffs #tariff #AI #AIwritingtools #freelancewriting #freelancewriters #freelancers #freelancing #freelancerevolution",neutral
+2025-04-30T23:17:15.000Z,This could be the end of modern conservativism in America now that Senate Republicans have tied their fate to Trump's tariff plan ,neutral
+2025-04-30T23:57:04.000Z,Markets are jittery as Q1 GDP shrinks 0.3%. Tariff tensions and economic uncertainty are testing investor nerves. Stay agile and informed.,negative
 2025-04-30T23:35:00.000Z,"""Trump is president. The harm being done to the economy and the American people are a direct result of his reckless economic policies.""
 
-Story: https://rollingstone.com/politics/politics-news/trump-blames-biden-tariff-economy-dip-1235328425/…"
-2025-04-30T23:44:47.000Z,It’s cool that the White House now takes questions from a dude who posted child pornography on Twitter.
-2025-04-30T23:37:27.000Z,Who cares. You missed the tariff vote.
+Story: https://rollingstone.com/politics/politics-news/trump-blames-biden-tariff-economy-dip-1235328425/…",negative
+2025-04-30T23:44:47.000Z,It’s cool that the White House now takes questions from a dude who posted child pornography on Twitter.,positive
+2025-04-30T23:37:27.000Z,Who cares. You missed the tariff vote.,positive
 2025-04-30T23:39:30.000Z,"Bloomberg: The uncertainty over Trump’s chaotic tariff strategy, his radical push to deport undocumented workers, legal immigrants and foreign students, his mass firings of federal employees and a sometimes overt disdain for the US Constitution have all unnerved investors...
-1/2"
+1/2",negative
 2025-04-30T23:46:45.000Z,"""The US government recently reached out to China though various channels, Yuyuantantian, a Weibo account affiliated with China Central Television that regularly signals Beijing’s views on trade, said in a post.""
 
-https://bloomberg.com/news/articles/2025-04-30/us-has-reached-out-to-china-to-initiate-tariff-talks-cctv-says…"
+https://bloomberg.com/news/articles/2025-04-30/us-has-reached-out-to-china-to-initiate-tariff-talks-cctv-says…",positive
 2025-04-30T23:45:15.000Z,"Git em now, kiss-azz kkkabinet!
-Those red Chinese made butt-wipers will have a 200% tariff on em next week! "
+Those red Chinese made butt-wipers will have a 200% tariff on em next week! ",neutral
 2025-04-30T23:51:17.000Z,"Unless the tariff is itemized on the receipt, buyers should assume the higher price is because the seller is price gouging. 
 
-Buy a similar item elsewhere where you know who’s holding the line on pricing."
-2025-04-30T23:45:06.000Z,"President Trump’s tariff and customs changes have begun affecting how many Americans shop online. Here’s what Amazon, Shein and Temu are saying amid rising operating costs. https://fox2detroit.com/news/amazon-tariffs-report-shein-temu-import-charges-trump?taid=6812b6009385340001850287&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter…"
+Buy a similar item elsewhere where you know who’s holding the line on pricing.",neutral
+2025-04-30T23:45:06.000Z,"President Trump’s tariff and customs changes have begun affecting how many Americans shop online. Here’s what Amazon, Shein and Temu are saying amid rising operating costs. https://fox2detroit.com/news/amazon-tariffs-report-shein-temu-import-charges-trump?taid=6812b6009385340001850287&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter…",positive
 2025-04-30T23:44:20.000Z,"Trump Barely Defeats Challenge to His Tariff War in US Senate. 
 
-Vote against the Republicans in the #midterms for action against Trump economic chaos."
+Vote against the Republicans in the #midterms for action against Trump economic chaos.",negative
 2025-04-30T23:15:04.000Z,"""We'll make those suckers in the USA"" as 'Trumps reveals tariff deal'
 
 President Trump has just revealed very attractive figures for businesses, if they decide to keep manufacturing in the States.
 
-Speaking about 20 minutes ago, Mr. Trump informed the press room that he had"
+Speaking about 20 minutes ago, Mr. Trump informed the press room that he had",neutral
 2025-04-30T23:55:26.000Z,"China Losing Tariff War https://youtu.be/ENfc_2mAM0E?si=MWufTjWLXlRS0pzx… 
 
-The CCP is trying to prevent Apple from taking their iPhone processing/making equipment out of China. Apple wants to source all U.S. iPhones from India next year.  PS 16 million export jobs in China are in danger b/c of tariffs."
+The CCP is trying to prevent Apple from taking their iPhone processing/making equipment out of China. Apple wants to source all U.S. iPhones from India next year.  PS 16 million export jobs in China are in danger b/c of tariffs.",negative
 2025-04-30T23:57:11.000Z,"Overall I still believe in Rand Paul. I think he's wrong on the tariff idea. The government used to be funded entirely on tariffs. That was like a hundred years ago. We need to go back to those days.
 
-In totality, Rand Paul is still one of the few good senators out there."
-2025-04-30T23:23:28.000Z,America has done nothing wrong(tariff war?) it has looked after its citizens interest first and tried to kill a war it helped start.
+In totality, Rand Paul is still one of the few good senators out there.",positive
+2025-04-30T23:23:28.000Z,America has done nothing wrong(tariff war?) it has looked after its citizens interest first and tried to kill a war it helped start.,negative
 2025-04-30T23:49:43.000Z,"The power of the tariff, Thank God our 
 @POTUS
- has mastered the Art of the Deal. I have never been happier.  MAGA"
-2025-04-30T23:53:15.000Z,"China Backs Down: Drops 125% Tariff on Major U.S. Exports After White House Calls Beijing's Strategy 'Unsustainable' https://msn.com/en-us/money/markets/china-backs-down-drops-125-tariff-on-major-u-s-exports-after-white-house-calls-beijing-s-strategy-unsustainable/ss-AA1DU7eO?ocid=socialshare… (POTUS) Trump, ""The ART of the deal""  part II"
-2025-04-30T23:33:49.000Z,I don’t like BEEEZO on a good day.   A before and after tariff price should be on all products.
-2025-04-30T23:26:14.000Z,"Behold. Trump has spread this ignorance to his faithful. Waves a magic wand and they all forget 6th grade social studies. Again, a tariff, is paid by those on the receiving end of a good or product. Americans."
-2025-04-30T23:54:13.000Z,White House condemns Amazon's alleged plans to highlight tariff surcharges on product listings - https://goo.gl/alerts/NZZe8j #GoogleAlerts
+ has mastered the Art of the Deal. I have never been happier.  MAGA",positive
+2025-04-30T23:53:15.000Z,"China Backs Down: Drops 125% Tariff on Major U.S. Exports After White House Calls Beijing's Strategy 'Unsustainable' https://msn.com/en-us/money/markets/china-backs-down-drops-125-tariff-on-major-u-s-exports-after-white-house-calls-beijing-s-strategy-unsustainable/ss-AA1DU7eO?ocid=socialshare… (POTUS) Trump, ""The ART of the deal""  part II",negative
+2025-04-30T23:33:49.000Z,I don’t like BEEEZO on a good day.   A before and after tariff price should be on all products.,positive
+2025-04-30T23:26:14.000Z,"Behold. Trump has spread this ignorance to his faithful. Waves a magic wand and they all forget 6th grade social studies. Again, a tariff, is paid by those on the receiving end of a good or product. Americans.",positive
+2025-04-30T23:54:13.000Z,White House condemns Amazon's alleged plans to highlight tariff surcharges on product listings - https://goo.gl/alerts/NZZe8j #GoogleAlerts,negative
 2025-04-30T23:42:28.000Z,"Elected Democrats would be more popular with Americans, if they would learn that few agree with their constant obstructionism. 
 
-We the People - Republicans, Independents, & approx. 1/3 of Democrats) support POTUS Trump and tariff rebalancing."
+We the People - Republicans, Independents, & approx. 1/3 of Democrats) support POTUS Trump and tariff rebalancing.",positive
 2025-04-30T23:53:52.000Z,"The empty shelves chatter has me riled. 
-For all you newbies to this discussion, the pouters and doubters, consult this list of largely affordable #MADEINUSA  clothing before your next tariff fuss fest."
+For all you newbies to this discussion, the pouters and doubters, consult this list of largely affordable #MADEINUSA  clothing before your next tariff fuss fest.",negative
 2025-04-30T23:59:24.000Z,"Sure, no problem… Were the tariff and/or inflation surcharge is listed before this administration?
 
-If not, doing what they’re doing is political propaganda. We had items on Amazon that went up over 200% under Biden. I don’t ever remember a label marking the 200% increase in"
-2025-04-30T23:49:07.000Z,As long as there is a tariff surcharge published regarding every foreign country's product imported into the country.
+If not, doing what they’re doing is political propaganda. We had items on Amazon that went up over 200% under Biden. I don’t ever remember a label marking the 200% increase in",positive
+2025-04-30T23:49:07.000Z,As long as there is a tariff surcharge published regarding every foreign country's product imported into the country.,neutral
 2025-04-30T23:51:14.000Z,"MORE TARIFF DESTRUCTION THAN EASILY SEEN:
 @NeelyAshmun
 @Rich3Dawg
@@ -173,61 +173,61 @@ If not, doing what they’re doing is political propaganda. We had items on Amaz
 @timberwolfpoint
 @LitmanChelley
  
-RP"
+RP",negative
 2025-04-30T23:38:13.000Z,"$MSFT Windows OEM and devices revenue increased 3% year over year, ahead of expectations, as tariff uncertainty through the quarter resulted in inventory levels that remained elevated,” Hood said.
 
-While Microsoft does sell Surface PCs and Xbox video game consoles, impact will"
-2025-04-30T23:41:58.000Z,Well maybe you should do your job and tell your president to drop this tariff nonsense
+While Microsoft does sell Surface PCs and Xbox video game consoles, impact will",negative
+2025-04-30T23:41:58.000Z,Well maybe you should do your job and tell your president to drop this tariff nonsense,negative
 2025-04-30T23:40:01.000Z,"On one hand they announce a deal with India
 
 On the other hand they want to slap a 500% tariff on any country purchasing Russian oil, including India which is one of the biggest buyer of Russian oil
 
-Please call an ambulance "
+Please call an ambulance ",positive
 2025-04-30T23:48:48.000Z,"Saw this on BSKY so tried it myself - it's from a company that manufactures clothing in China and it's legit. 
 
-LOOK at the tariff charge. China isn't paying that like Trump claims. The American consumer will be paying."
+LOOK at the tariff charge. China isn't paying that like Trump claims. The American consumer will be paying.",negative
 2025-04-30T23:43:00.000Z," AMERICAN AUTO INDUSTRY ALERT: Trump Just Dropped a GAME-CHANGING Economic Weapon 
 
 Foreign manufacturers about to get REKT by the most strategic trade move in decades. This isn't policy - it's economic jiu-jitsu 
 
-The Nuclear Option: 25% tariff on foreign auto parts that"
-2025-04-30T23:44:32.000Z,"This is a real moment of shame for Senate Republicans, excepting Murkowski, Paul(!), and Collins. It's a voe for their own enfeeblement, the immisaeration of the American people, and deepening constitutional dysfunction."
-2025-04-30T23:24:43.000Z,"TRUMP IS WINNING THE TARIFF, AND INDUSTRY  COMING BACK TO AMERIC AND JOBS BACK HERE  WE ARE GOING TO SEE A DIFFERENT WORLD IN REGARDS TO TRADE, EVEN THOUGHT IDIOTS LIKE PAUL RAND WANTS TO STOP HIM FROM MAKING TARIFFS FAIR ,RAND THINKS HE KNOWS BEST WHAT EXACTLY HAS HE CONTRIBUTED"
-2025-04-30T23:33:54.000Z,The best response to the warning from the first-quarter GDP decline would be for President Trump to call the whole tariff thing off.
-2025-04-30T23:45:15.000Z,So the next quarter is also going to be bad? Because tariff uncertainty will be still there lol.
-2025-04-30T23:31:01.000Z,Who gives a shit if it's posted or not. If I need it I order it. I didn't see the 20% inflation when the vegetable was in the office posted anywhere it's a nonissue  25% tariff vs 20% inflation. I'll take the tariff
-2025-04-30T23:13:06.000Z,Have they tried the island that was inhabited by penguins? They might want to eliminate their tariff
-2025-04-30T23:32:05.000Z,GM earnings beat ($2.78 vs $2.72 est) but suspending guidance due to Trump tariff threats. Revenue solid at $44.02B. Freezing buybacks = smart defensive move.
-2025-04-30T23:31:31.000Z,If you were stupid and sold off because of President Trump‘s tariff because the media on talking about NBC CBS ABC News said that the economy is bad well you’re stupid and now you just lost but if you were smart like me I’m holding and I’m buying
+The Nuclear Option: 25% tariff on foreign auto parts that",positive
+2025-04-30T23:44:32.000Z,"This is a real moment of shame for Senate Republicans, excepting Murkowski, Paul(!), and Collins. It's a voe for their own enfeeblement, the immisaeration of the American people, and deepening constitutional dysfunction.",negative
+2025-04-30T23:24:43.000Z,"TRUMP IS WINNING THE TARIFF, AND INDUSTRY  COMING BACK TO AMERIC AND JOBS BACK HERE  WE ARE GOING TO SEE A DIFFERENT WORLD IN REGARDS TO TRADE, EVEN THOUGHT IDIOTS LIKE PAUL RAND WANTS TO STOP HIM FROM MAKING TARIFFS FAIR ,RAND THINKS HE KNOWS BEST WHAT EXACTLY HAS HE CONTRIBUTED",positive
+2025-04-30T23:33:54.000Z,The best response to the warning from the first-quarter GDP decline would be for President Trump to call the whole tariff thing off.,positive
+2025-04-30T23:45:15.000Z,So the next quarter is also going to be bad? Because tariff uncertainty will be still there lol.,negative
+2025-04-30T23:31:01.000Z,Who gives a shit if it's posted or not. If I need it I order it. I didn't see the 20% inflation when the vegetable was in the office posted anywhere it's a nonissue  25% tariff vs 20% inflation. I'll take the tariff,negative
+2025-04-30T23:13:06.000Z,Have they tried the island that was inhabited by penguins? They might want to eliminate their tariff,positive
+2025-04-30T23:32:05.000Z,GM earnings beat ($2.78 vs $2.72 est) but suspending guidance due to Trump tariff threats. Revenue solid at $44.02B. Freezing buybacks = smart defensive move.,positive
+2025-04-30T23:31:31.000Z,If you were stupid and sold off because of President Trump‘s tariff because the media on talking about NBC CBS ABC News said that the economy is bad well you’re stupid and now you just lost but if you were smart like me I’m holding and I’m buying,positive
 2025-04-30T23:30:53.000Z,"'We are in real trouble:' How Trump's tariff policies could drive a rece... https://youtu.be/swyt1mqGSlk?si=2hZhsWdiCRNSm3V1… via 
-@YouTube"
-2025-04-30T23:36:52.000Z,"Senator Rand Paul's vote for S.J. Res. 49 reflects his consistent opposition to tariffs, aligning with his libertarian principles. He argues tariffs raise prices for consumers and overstep executive power, citing historical examples like the McKinley Tariff. While this stance"
-2025-04-30T23:54:09.000Z,"트럼프, &quot;중국 경제 매우 심각한 상태&quot; China manufacturing activity plummets amid Trump tariff war"
+@YouTube",negative
+2025-04-30T23:36:52.000Z,"Senator Rand Paul's vote for S.J. Res. 49 reflects his consistent opposition to tariffs, aligning with his libertarian principles. He argues tariffs raise prices for consumers and overstep executive power, citing historical examples like the McKinley Tariff. While this stance",positive
+2025-04-30T23:54:09.000Z,"트럼프, &quot;중국 경제 매우 심각한 상태&quot; China manufacturing activity plummets amid Trump tariff war",negative
 2025-04-30T23:27:50.000Z,"We talked with ⁦
 @chrismillerofwv
-⁩ today about the Trump tariff policy & he had an interesting perspective…"
+⁩ today about the Trump tariff policy & he had an interesting perspective…",positive
 2025-04-30T23:43:43.000Z,"We have a POTUS that figured out that a DiMefil grand strategy needed to be more of a dimEFil + grand strategy to focus on the CCP weaknesses--accelerating reshoring and accelerating the QUAD. 
 
 China Is Losing the Tariff War https://youtu.be/ENfc_2mAM0E?si=FnG7gN0TLu_YsToa… via 
-@YouTube"
+@YouTube",negative
 2025-04-30T23:39:52.000Z,"BREAKING    
 
 A bipartisan measure to undo Trump's global tariffs fails in the Senate
 
-The resolution to rein in Trump's tariff authority stalled on a 49-49 tie, with two senators missing the vote."
+The resolution to rein in Trump's tariff authority stalled on a 49-49 tie, with two senators missing the vote.",negative
 2025-04-30T23:51:42.000Z,"Tariff-proof your pantry: Here's how https://youtu.be/Nsd68SqxzX8?si=O5BPW24NQDrVNxp4… via 
-@YouTube"
-2025-04-30T23:29:50.000Z,"The Trolling and the Trauma, Just Another 100 Day(S), Tariff Talk and more"
-2025-04-30T23:53:59.000Z,Weird times. Trump calls Amazon un-American for thinking of explaining tariff cost to US consumers and now here he is explaining the exact same thing. Did it for them 
-2025-04-30T23:40:34.000Z,"Tariffs cannot eliminate income taxes. Income taxes generate $2.6 trillion annually, while even a 20% tariff would yield only $200–340 billion. High tariffs would raise prices, hurt consumers, and risk trade wars, reducing economic growth. Historically, tariffs funded the U.S."
+@YouTube",neutral
+2025-04-30T23:29:50.000Z,"The Trolling and the Trauma, Just Another 100 Day(S), Tariff Talk and more",negative
+2025-04-30T23:53:59.000Z,Weird times. Trump calls Amazon un-American for thinking of explaining tariff cost to US consumers and now here he is explaining the exact same thing. Did it for them ,neutral
+2025-04-30T23:40:34.000Z,"Tariffs cannot eliminate income taxes. Income taxes generate $2.6 trillion annually, while even a 20% tariff would yield only $200–340 billion. High tariffs would raise prices, hurt consumers, and risk trade wars, reducing economic growth. Historically, tariffs funded the U.S.",negative
 2025-04-30T23:43:26.000Z,"(Drake rapping) that’s two goals on five shots, that’s brrrrrrrrrrah for you bumbaclots
-(Drake singing) but it’s the most dangerous lead in hockey tho"
+(Drake singing) but it’s the most dangerous lead in hockey tho",negative
 2025-04-30T23:52:15.000Z,"It's 49-49 again with Lummis voting Yes to table the revote on ending Trump's global tariff. 
 
-Now awaiting Vance."
-2025-04-30T23:28:35.000Z,"Trump initially imposed a 10% tariff on Chinese goods in February, then steadily raised it as Beijing retaliated with its own tariffs. When he offered most countries a 90-day freeze to negotiate, China was denied the pause. Instead, Trump hiked their tariffs even higher."
-2025-04-30T23:40:33.000Z,Just curious is there a tariff on tickets sold to Canadian’s #Knicks #NBAPlayoffs
-2025-04-30T23:36:06.000Z,"US President Donald Trump’s administration has been seeking contact with Beijing to initiate talks on the massive tariffs Washington has imposed on China, according to a state-run media outlet"
+Now awaiting Vance.",positive
+2025-04-30T23:28:35.000Z,"Trump initially imposed a 10% tariff on Chinese goods in February, then steadily raised it as Beijing retaliated with its own tariffs. When he offered most countries a 90-day freeze to negotiate, China was denied the pause. Instead, Trump hiked their tariffs even higher.",negative
+2025-04-30T23:40:33.000Z,Just curious is there a tariff on tickets sold to Canadian’s #Knicks #NBAPlayoffs,positive
+2025-04-30T23:36:06.000Z,"US President Donald Trump’s administration has been seeking contact with Beijing to initiate talks on the massive tariffs Washington has imposed on China, according to a state-run media outlet",negative
 2025-04-30T23:58:41.000Z,"In very little writing 
 Companies should note the sale price is tariff adjusted 
 
@@ -235,13 +235,13 @@ if just 3 people do it They may think it's an organization …
 
 can you imagine 50 people a day … And friends they may think it's a movement.
 
-the Alice's Restaurant Anti-tariff Movement"
+the Alice's Restaurant Anti-tariff Movement",positive
 2025-04-30T23:13:51.000Z,"tariff prices flooding in 
 no chance American citizens win
 as China retaliates 
 our fate remains in the hands of retailers  
 & the middle & lower class 
-will be trapped in the hands of oligarchy"
+will be trapped in the hands of oligarchy",negative
 2025-04-30T23:44:11.000Z,"the month end machines lifted out of a pummel
 
 Q1 mag earnings after the close stir froth to an already over bought tape
@@ -250,12 +250,12 @@ spec stocks going wild
 
 and tariff effects and bad soft data catching hard data haven't even hit yet
 
-go ahead and celebrate Biden's q1 stock mkt "
+go ahead and celebrate Biden's q1 stock mkt ",negative
 2025-04-30T23:37:04.000Z,"Tariff turmoil prompts cloudy forecasts from companies for the year ahead
 
-https://trib.al/RAWQbUR"
-2025-04-30T23:52:00.000Z,"Experts have long warned that tariffs, which are a normal part of global trade, eventually pass on costs to consumers."
-2025-04-30T23:42:47.000Z,She likely got that 258m number by dividing the total weight of fentanyl seized by the amount needed to kill one person. It's similar to the math used to calculate tariff rates. You just have to rinse off the feces because they're pulling it out of their asses.
+https://trib.al/RAWQbUR",negative
+2025-04-30T23:52:00.000Z,"Experts have long warned that tariffs, which are a normal part of global trade, eventually pass on costs to consumers.",negative
+2025-04-30T23:42:47.000Z,She likely got that 258m number by dividing the total weight of fentanyl seized by the amount needed to kill one person. It's similar to the math used to calculate tariff rates. You just have to rinse off the feces because they're pulling it out of their asses.,negative
 2025-04-30T23:26:59.000Z,"#sp500 rallies v shocker GDP O/N
 Post-Tariff tantrum market = UP, not down
 China ignores 
@@ -263,64 +263,64 @@ Tourist numbers crash 10% Covid like#
 Imports implode 30% 
 MSM total BS 
 Conflict side WORSE not better ... Gaza day 61 ... Ukraine no solution 
-Propaganda opposite to reality"
-2025-04-30T23:48:02.000Z,"""Trump Boasts About Bullying Bezos Into Ditching Tariff Warning"" - The Daily Beast #SmartNews"
-2025-04-30T23:58:25.000Z,Confidence among UK company bosses rises after Trump tariff reversal
+Propaganda opposite to reality",negative
+2025-04-30T23:48:02.000Z,"""Trump Boasts About Bullying Bezos Into Ditching Tariff Warning"" - The Daily Beast #SmartNews",negative
+2025-04-30T23:58:25.000Z,Confidence among UK company bosses rises after Trump tariff reversal,positive
 2025-04-30T23:26:47.000Z," US Solar Giant’s Stock Crashes! CEO Warns: Trump’s Tariffs Hit Harder Than Expected! 
 
-The US solar industry is reeling! A leading solar company’s stock has plummeted over 25% recently, with its CEO stating that Trump’s tariff policies have caused far greater supply chain"
-2025-04-30T23:52:47.000Z,"Japan’s chief trade negotiator is in Washington for his second round of tariff talks with the U.S., emphasizing that Japan would protect its national interests while also seeking a win-win situation."
-2025-04-30T23:44:48.000Z,"Under Trump, Stocks Have the Worst Start to a Presidential Term Since 1974. During the first 100 days of the Trump administration, shock waves from the chaotic tariff rollout continue to send tremors through the global financial system."
+The US solar industry is reeling! A leading solar company’s stock has plummeted over 25% recently, with its CEO stating that Trump’s tariff policies have caused far greater supply chain",positive
+2025-04-30T23:52:47.000Z,"Japan’s chief trade negotiator is in Washington for his second round of tariff talks with the U.S., emphasizing that Japan would protect its national interests while also seeking a win-win situation.",positive
+2025-04-30T23:44:48.000Z,"Under Trump, Stocks Have the Worst Start to a Presidential Term Since 1974. During the first 100 days of the Trump administration, shock waves from the chaotic tariff rollout continue to send tremors through the global financial system.",negative
 2025-04-30T23:54:15.000Z,"It's unlikely tariffs can fully replace income taxes for those earning under $150,000 annually. In 2022, this group paid about $800 billion to $1 trillion in income taxes, while even a 50% tariff rate might only generate $780 billion—still not enough. 
 
-Additionally, tariffs"
-2025-04-30T23:56:12.000Z,Are tariff negiotiations like College Football realignment where everything is done in denials and darkness and then poof Oklahoma and Texas magically join the SEC out of the blue?
-2025-04-30T23:24:26.000Z,"Quinta Brunson Promos Ill-Advised Tariff Sketches Ahead of ‘SNL’ Gig, Debuts Heidi Gardner’s ‘Toilet Paper Mama’"
-2025-04-30T23:32:33.000Z,Amazon Not Planning to Display Tariff Costs Online Following White House Criticism http://dlvr.it/TKTS70
-2025-04-30T23:55:04.000Z,Wyden-backed anti-tariff measure comes up short in U.S. Senate
-2025-04-30T23:51:26.000Z,"The resolution to rein in Trump's tariff authority stalled on a 49-49 tie, with two senators missing the vote."
-2025-04-30T23:44:56.000Z,AwesomeCapital: Trump warns of a 'tariff wall' for pharmaceutical ... https://awesomecapital.blogspot.com/2025/04/trump-warns-of-tariff-wall-for.html?spref=tw…
-2025-04-30T23:54:23.000Z,"Trump claimed tariffs would replace income tax. Let’s be clear: that’s about as feasible as funding NASA with Chuck E. Cheese tokens.Tariff revenue: up a bit. Income tax revenue: still 85% of the pie. Spending: unchanged. Deficit:erratic, ballooning, and concerning."
-2025-04-30T23:21:06.000Z,Amazon denies reported plans to display tariff costs after White House criticism
+Additionally, tariffs",neutral
+2025-04-30T23:56:12.000Z,Are tariff negiotiations like College Football realignment where everything is done in denials and darkness and then poof Oklahoma and Texas magically join the SEC out of the blue?,positive
+2025-04-30T23:24:26.000Z,"Quinta Brunson Promos Ill-Advised Tariff Sketches Ahead of ‘SNL’ Gig, Debuts Heidi Gardner’s ‘Toilet Paper Mama’",neutral
+2025-04-30T23:32:33.000Z,Amazon Not Planning to Display Tariff Costs Online Following White House Criticism http://dlvr.it/TKTS70,negative
+2025-04-30T23:55:04.000Z,Wyden-backed anti-tariff measure comes up short in U.S. Senate,neutral
+2025-04-30T23:51:26.000Z,"The resolution to rein in Trump's tariff authority stalled on a 49-49 tie, with two senators missing the vote.",negative
+2025-04-30T23:44:56.000Z,AwesomeCapital: Trump warns of a 'tariff wall' for pharmaceutical ... https://awesomecapital.blogspot.com/2025/04/trump-warns-of-tariff-wall-for.html?spref=tw…,negative
+2025-04-30T23:54:23.000Z,"Trump claimed tariffs would replace income tax. Let’s be clear: that’s about as feasible as funding NASA with Chuck E. Cheese tokens.Tariff revenue: up a bit. Income tax revenue: still 85% of the pie. Spending: unchanged. Deficit:erratic, ballooning, and concerning.",positive
+2025-04-30T23:21:06.000Z,Amazon denies reported plans to display tariff costs after White House criticism,negative
 2025-04-30T23:38:19.000Z,"https://ft.com/content/37b30f64-f9e8-4c1a-ad50-23e7c61880a7…
 
-Shein's scramble to restructure amid tariff threats reveals the fragility of globalized supply chains in our new era of economic nationalism. This is precisely why Fourth Turning investors should watch for companies with robust domestic production"
-2025-04-30T23:45:07.000Z,Airbus urges return to zero-tariff deal as Q1 beats forecasts http://reut.rs/4lVkxE0
-2025-04-30T23:40:06.000Z,How Whiskey Founder Fawn Weaver Tariff-Proofed Her Business. Plus: Stop Decision Fatigue From Sabotaging Your Career https://trib.al/KKaZMfj https://trib.al/KKaZMfj
-2025-04-30T23:43:02.000Z,"2 stocks are carrying the entire market it’s wild. Tariff, layoffs, negative GDP growth, ports empty, wars, no rate cuts, proposed tax cuts for millionaires, a looming recession, and the market is pumping?  Come on that’s a load of shit."
-2025-04-30T23:45:04.000Z,Donald Trump called Jeff Bezos amid reports Amazon would be displaying tariff cost increases.The two have become friendlier since his first term.
+Shein's scramble to restructure amid tariff threats reveals the fragility of globalized supply chains in our new era of economic nationalism. This is precisely why Fourth Turning investors should watch for companies with robust domestic production",negative
+2025-04-30T23:45:07.000Z,Airbus urges return to zero-tariff deal as Q1 beats forecasts http://reut.rs/4lVkxE0,neutral
+2025-04-30T23:40:06.000Z,How Whiskey Founder Fawn Weaver Tariff-Proofed Her Business. Plus: Stop Decision Fatigue From Sabotaging Your Career https://trib.al/KKaZMfj https://trib.al/KKaZMfj,negative
+2025-04-30T23:43:02.000Z,"2 stocks are carrying the entire market it’s wild. Tariff, layoffs, negative GDP growth, ports empty, wars, no rate cuts, proposed tax cuts for millionaires, a looming recession, and the market is pumping?  Come on that’s a load of shit.",negative
+2025-04-30T23:45:04.000Z,Donald Trump called Jeff Bezos amid reports Amazon would be displaying tariff cost increases.The two have become friendlier since his first term.,positive
 2025-04-30T23:56:10.000Z,"Amazon's Trump Tariff Threat? Plus Death, Cremation & Bad Sushi! (Free) https://rumble.com/v6sru0v-amazon-vs.-trump-tariffs-our-unfiltered-take.html… 
 @SethWilliamsShw
  @sethwhk1420
- @cmsrocks"
-2025-04-30T23:15:08.000Z,Confidence among UK company bosses rises after Trump tariff reversal http://reut.rs/3EN0pmQ
-2025-04-30T23:35:08.000Z,Tariff turmoil prompts cloudy forecasts from companies for the year ahead https://trib.al/K1PyLX3
-2025-04-30T23:50:49.000Z,Tariff turmoil prompts cloudy forecasts from companies for the year ahead https://trib.al/CA2susI
-2025-04-30T23:48:47.000Z,"Rising tariff tensions and softening sentiment are pressuring the US labor market, raising fears of a recession later this year."
+ @cmsrocks",negative
+2025-04-30T23:15:08.000Z,Confidence among UK company bosses rises after Trump tariff reversal http://reut.rs/3EN0pmQ,positive
+2025-04-30T23:35:08.000Z,Tariff turmoil prompts cloudy forecasts from companies for the year ahead https://trib.al/K1PyLX3,negative
+2025-04-30T23:50:49.000Z,Tariff turmoil prompts cloudy forecasts from companies for the year ahead https://trib.al/CA2susI,negative
+2025-04-30T23:48:47.000Z,"Rising tariff tensions and softening sentiment are pressuring the US labor market, raising fears of a recession later this year.",negative
 2025-04-30T23:55:28.000Z,"LOL
 Used Car Dealers be charging TARIFF pricing
 on 10 year old Imports
 
-SHADY FUCHS"
-2025-04-30T23:39:32.000Z,Trump blasting Amazon over tariff transparency is a warning sign for US retailers https://msn.com/en-us/money/companies/trump-blasting-amazon-over-tariff-transparency-is-a-warning-sign-for-us-retailers/ar-AA1DWOxW?ocid=socialshare…
+SHADY FUCHS",positive
+2025-04-30T23:39:32.000Z,Trump blasting Amazon over tariff transparency is a warning sign for US retailers https://msn.com/en-us/money/companies/trump-blasting-amazon-over-tariff-transparency-is-a-warning-sign-for-us-retailers/ar-AA1DWOxW?ocid=socialshare…,negative
 2025-04-30T23:46:24.000Z,"@dogeai_gov
  @atrupar
  @KevR75
- Tariffs of 125% on China and 90-day pauses for others are confirmed, but no evidence supports a ""50-country tariff blitz."" Markets have been volatile, not stable, with major S&P 500 swings in April 2025. No public data shows Gilman Precision landing"
+ Tariffs of 125% on China and 90-day pauses for others are confirmed, but no evidence supports a ""50-country tariff blitz."" Markets have been volatile, not stable, with major S&P 500 swings in April 2025. No public data shows Gilman Precision landing",negative
 2025-04-30T23:21:04.000Z,"Alaska LNG, white whale of US-Japan ties, key to tariff talks https://asia.nikkei.com/Spotlight/Comment/Alaska-LNG-white-whale-of-US-Japan-ties-key-to-tariff-talks… via 
-@NikkeiAsia"
+@NikkeiAsia",neutral
 2025-04-30T23:29:29.000Z,"Senate fails to reject Trump's national emergency on tariffs, as Republicans splinter: 
-The Senate failed Wednesday to pass a resolution rejecting President Donald Trump's ""Liberation Day"" tariff agenda, as several Republicans signaled beforehand they fa…"
-2025-04-30T23:53:07.000Z,"Economic policies, like tariffs, affect the economy on varying timelines. Stock markets react instantly, often dropping due to uncertainty, as seen with a 4% S&P 500 decline after 2025 tariff announcements. Short-term effects, like price hikes, emerge within weeks to months, with"
-2025-04-30T23:50:43.000Z,Tariff turmoil prompts cloudy forecasts from companies for the year ahead https://trib.al/UQcjfW3
-2025-04-30T23:26:35.000Z,"US inflation cools, consumer step up spending, as Americans brace for tariff impact"
+The Senate failed Wednesday to pass a resolution rejecting President Donald Trump's ""Liberation Day"" tariff agenda, as several Republicans signaled beforehand they fa…",negative
+2025-04-30T23:53:07.000Z,"Economic policies, like tariffs, affect the economy on varying timelines. Stock markets react instantly, often dropping due to uncertainty, as seen with a 4% S&P 500 decline after 2025 tariff announcements. Short-term effects, like price hikes, emerge within weeks to months, with",positive
+2025-04-30T23:50:43.000Z,Tariff turmoil prompts cloudy forecasts from companies for the year ahead https://trib.al/UQcjfW3,negative
+2025-04-30T23:26:35.000Z,"US inflation cools, consumer step up spending, as Americans brace for tariff impact",neutral
 2025-04-30T23:59:05.000Z,"My prediction if tariff war continues
 Life without Chinese products
 July 4 - No firework
 Back to school - Massive shortage on all supplies
-Christmas - No Christmas trees , no toy for kids, a lot less presents (no one can afford them)"
+Christmas - No Christmas trees , no toy for kids, a lot less presents (no one can afford them)",negative
 2025-04-30T23:49:08.000Z,"@DIORCARTEL
- Nobody's clearly winning the US-China tariff war in 2025. Both are hurting: US faces inflation (3% forecast), empty shelves, and a 67% drop in soya bean exports to China. China's GDP may shrink 2.4%, but it's less reliant on US markets (2.9% of GDP) and diversifying"
-2025-04-30T23:54:09.000Z,So now they are boycotting Amazon for showing pre tariff prices? Lmao nigguh it was supposed to be paid by china INNIT? Y so scawed
-2025-04-30T23:54:53.000Z,They should have just chosen AOC and gotten her to gain some weight while signaling to shitlords if they wanted guys to be interested
-2025-04-30T23:42:09.000Z,"No, Trump's claim that the Q1 2025 GDP numbers are Biden's isn't accurate. Q1 2025 covers January to March, and Trump took office on January 20, 2025, overseeing most of the quarter—about 77% of it. The GDP shrank by 0.3%, largely due to an import surge driven by Trump's tariff"
+ Nobody's clearly winning the US-China tariff war in 2025. Both are hurting: US faces inflation (3% forecast), empty shelves, and a 67% drop in soya bean exports to China. China's GDP may shrink 2.4%, but it's less reliant on US markets (2.9% of GDP) and diversifying",negative
+2025-04-30T23:54:09.000Z,So now they are boycotting Amazon for showing pre tariff prices? Lmao nigguh it was supposed to be paid by china INNIT? Y so scawed,positive
+2025-04-30T23:54:53.000Z,They should have just chosen AOC and gotten her to gain some weight while signaling to shitlords if they wanted guys to be interested,positive
+2025-04-30T23:42:09.000Z,"No, Trump's claim that the Q1 2025 GDP numbers are Biden's isn't accurate. Q1 2025 covers January to March, and Trump took office on January 20, 2025, overseeing most of the quarter—about 77% of it. The GDP shrank by 0.3%, largely due to an import surge driven by Trump's tariff",neutral
