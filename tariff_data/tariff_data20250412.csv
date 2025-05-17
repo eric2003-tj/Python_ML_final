@@ -1,5 +1,5 @@
-Timestamp,Tweet Content
-2025-04-12T23:51:36.000Z,"Trump: ""You know, our country was the strongest, believe it or not, from 1870 to 1913. You know why? It was all tariff based. We had no income tax."""
+Timestamp,Tweet Content,sentiment
+2025-04-12T23:51:36.000Z,"Trump: ""You know, our country was the strongest, believe it or not, from 1870 to 1913. You know why? It was all tariff based. We had no income tax.""",positive
 2025-04-12T23:33:07.000Z,"The system is broken! Is the tariff 'suspended' from collection?
 系统坏了！关税“暂停”征收？
 这是要戏剧开始戏剧收场咯
@@ -14,19 +14,19 @@ Timestamp,Tweet Content
  @RibiaoChen
  @PRCAmbNepal
  @zhang_heqing
- @VP"
-2025-04-12T23:57:33.000Z,When the products you import aren’t on any of Trump’s tariff exemptions list.
-2025-04-12T23:40:17.000Z,New Cybertruck spotted after Tariff 
-2025-04-12T23:46:35.000Z,Kevin O'Leary says it’s time to hit China with a 400% tariff.
-2025-04-12T23:15:58.000Z,China charging export tariff on electronics export to the US would be hilarious.
-2025-04-12T23:31:33.000Z,Yall saw that 145% tariff right
+ @VP",negative
+2025-04-12T23:57:33.000Z,When the products you import aren’t on any of Trump’s tariff exemptions list.,neutral
+2025-04-12T23:40:17.000Z,New Cybertruck spotted after Tariff ,neutral
+2025-04-12T23:46:35.000Z,Kevin O'Leary says it’s time to hit China with a 400% tariff.,neutral
+2025-04-12T23:15:58.000Z,China charging export tariff on electronics export to the US would be hilarious.,positive
+2025-04-12T23:31:33.000Z,Yall saw that 145% tariff right,neutral
 2025-04-12T23:51:13.000Z,"The world struggles with Trump's tariff logic
-Total potential U.S. tariffs on Chinese goods have now surged to 145%. In response, China has raised tariffs on U.S. products to 125% and stated it will disregard any further tariffs hikes from Washington. Meanwhile, the U.S. is"
+Total potential U.S. tariffs on Chinese goods have now surged to 145%. In response, China has raised tariffs on U.S. products to 125% and stated it will disregard any further tariffs hikes from Washington. Meanwhile, the U.S. is",negative
 2025-04-12T23:55:20.000Z,"Apple is now exempt from Trump's tariffs, here's how much it could've cost you https://9to5mac.com/2025/04/12/apple-tariff-theoretical-price-breakdown/… by 
-@mbrkhrdt"
-2025-04-12T23:52:19.000Z,"This is how I retaliate too, by calling out fake stuff. Coming out as blasian. I love how messy the tariff situation is getting"
-2025-04-12T23:31:00.000Z,Gordon Chang discusses President President Trump's tariff strategy and the threat of Chinese hackers to U.S. national security on ‘Fox News Live.’
-2025-04-12T23:34:59.000Z,38% tariff for everybody with pink hair and under 5 feet.
+@mbrkhrdt",positive
+2025-04-12T23:52:19.000Z,"This is how I retaliate too, by calling out fake stuff. Coming out as blasian. I love how messy the tariff situation is getting",negative
+2025-04-12T23:31:00.000Z,Gordon Chang discusses President President Trump's tariff strategy and the threat of Chinese hackers to U.S. national security on ‘Fox News Live.’,negative
+2025-04-12T23:34:59.000Z,38% tariff for everybody with pink hair and under 5 feet.,neutral
 2025-04-12T23:45:48.000Z,"Trump has revoked Tariff on smart phone, computers, chips etc.
 
 ഇതെല്ലാം കൂടുതൽ എക്സ്പോർട്ട് ചെയ്യുന്നത് ചൈനയാണ്.
@@ -35,57 +35,57 @@ Total potential U.S. tariffs on Chinese goods have now surged to 145%. In respon
 
 Good for Tech companies.
 
-#observations."
+#observations.",positive
 2025-04-12T23:47:04.000Z,"How do you see him and the MAGA?
-after announcing exemptions of China tech products? while China keeps import tariff 125% for all US products."
+after announcing exemptions of China tech products? while China keeps import tariff 125% for all US products.",neutral
 2025-04-12T23:54:00.000Z,"The US government has granted tariff exclusions for smartphones, computers, and other electronics imported largely from China, sparing them from US President Donald Trump's steep 125% reciprocal duties.
 
-#China #ChinaTechnology"
+#China #ChinaTechnology",positive
 2025-04-12T23:23:00.000Z,"In 2024, US services trade surplus reached $293.3 billionTrump deliberately ignores this in his idiotic tariff war
 
 The US has a surplus in services with China, EU, Canada, Mexico, Japan, etc.
 
-FACT: USA services trade surplus with Japan was $24.3 billion in February 2025."
+FACT: USA services trade surplus with Japan was $24.3 billion in February 2025.",negative
 2025-04-12T23:38:55.000Z,"Trump’s giving Apple a tariff exemption because Tim Cook said they’ll start manufacturing in America
 
 That’s a big commitment to a company that’s made trillions from manufacturing in China
 
-- But first, prove you’re serious by putting funds in a non-refundable escrow account."
+- But first, prove you’re serious by putting funds in a non-refundable escrow account.",positive
 2025-04-12T23:47:13.000Z,"China's secret advantage? Expert debunks Trump's tariff math
-U.S. President Donald Trump says tariffs bring billions. Anthony Moretti, an associate professor at the Department of Communication and Organizational Leadership of Robert Morris University, debunks the claim, pointing"
+U.S. President Donald Trump says tariffs bring billions. Anthony Moretti, an associate professor at the Department of Communication and Organizational Leadership of Robert Morris University, debunks the claim, pointing",positive
 2025-04-12T23:55:02.000Z,"Reciprocal Tariffs Exemption Details:
 
-The new reciprocal tariff exemptions actually cover almost $390 billion in US imports (12% of all imports), including over $101 billion from China, and will provide a temporary reprieve for consumers and tech companies.  $AAPL $NVDA $DELL"
+The new reciprocal tariff exemptions actually cover almost $390 billion in US imports (12% of all imports), including over $101 billion from China, and will provide a temporary reprieve for consumers and tech companies.  $AAPL $NVDA $DELL",neutral
 2025-04-12T23:47:00.000Z,"Apple just dodged a 125% tariff bullet - iPhones, GPUs, and servers are now exempt.
 
 Trump’s reversal slashes electronics tariffs from 45% to 5%, giving Apple and Nvidia a massive win.
 
-But with China still the factory floor, is this a lifeline or just a pause before the next"
-2025-04-12T23:34:08.000Z,Congress reacts to #PresidentTrump&#39;s tariff pause and market turbulence
+But with China still the factory floor, is this a lifeline or just a pause before the next",positive
+2025-04-12T23:34:08.000Z,Congress reacts to #PresidentTrump&#39;s tariff pause and market turbulence,neutral
 2025-04-12T23:15:28.000Z,"This big tech tariff exemption is massive for the markets and economy 
 
 In 2024, the U.S. imported $439 billion worth of goods from China
 
 Close to 23% of those imports are now exempt from the new “reciprocal tariffs”
 
-Not to mention, the Mag 7 stocks make up 30% of the S&P "
-2025-04-12T23:49:37.000Z,"%. They tariff us, we tariff them. We can’t own land there, they can’t here. Pretty simple! So simple even a Liberal can almost understand. Not quite, but almost!"
-2025-04-12T23:43:36.000Z,"Me tomó por sorpresa, realmente hermoso. "
+Not to mention, the Mag 7 stocks make up 30% of the S&P ",positive
+2025-04-12T23:49:37.000Z,"%. They tariff us, we tariff them. We can’t own land there, they can’t here. Pretty simple! So simple even a Liberal can almost understand. Not quite, but almost!",positive
+2025-04-12T23:43:36.000Z,"Me tomó por sorpresa, realmente hermoso. ",neutral
 2025-04-12T23:52:38.000Z,"We need an investigation into who made money off Trump’s tariff announcements.
 
-A culture of corruption has infected the Republican Party. Americans deserve answers."
-2025-04-12T23:54:09.000Z,
+A culture of corruption has infected the Republican Party. Americans deserve answers.",negative
+2025-04-12T23:54:09.000Z,,neutral
 2025-04-12T23:37:41.000Z," CHANG: U.S. MUST TAKE BOLD ACTION AGAINST CHINA 
 
 Gordon G. Chang on Trump’s tariff strategy:
 “We must take bold action to protect our national security and interests.” 
 
-It’s time to stand strong , defend our economy , and secure America."
-2025-04-12T23:53:25.000Z,"Which is why little Donald Trump, hero of the stupid, has already backed off on his Tariff's before any negotiation with China had even begun."
+It’s time to stand strong , defend our economy , and secure America.",positive
+2025-04-12T23:53:25.000Z,"Which is why little Donald Trump, hero of the stupid, has already backed off on his Tariff's before any negotiation with China had even begun.",neutral
 2025-04-12T23:31:30.000Z,"Trump seems to have lost the trade war.
-He already backed off from the global tariff and exempted China’s electronic imports, which is the largest and most important product from China!"
-2025-04-12T23:42:49.000Z,"Hey MAGA’ts! Where is Peter “Tariff Tsar” Navarro? Is he consulting with his Financial Guru (alter ego ) Ron Vara?!? Are you starting to see the  show you elected? So much winning, right? No Allies, Broken Economy, Trade War with the World and  are now the good guys!"
-2025-04-12T23:30:00.000Z,"Given that US exports to China are already commercially unviable at current tariff levels, any further US tariff hikes on Chinese goods will simply be ignored."
+He already backed off from the global tariff and exempted China’s electronic imports, which is the largest and most important product from China!",negative
+2025-04-12T23:42:49.000Z,"Hey MAGA’ts! Where is Peter “Tariff Tsar” Navarro? Is he consulting with his Financial Guru (alter ego ) Ron Vara?!? Are you starting to see the  show you elected? So much winning, right? No Allies, Broken Economy, Trade War with the World and  are now the good guys!",positive
+2025-04-12T23:30:00.000Z,"Given that US exports to China are already commercially unviable at current tariff levels, any further US tariff hikes on Chinese goods will simply be ignored.",negative
 2025-04-12T23:35:34.000Z,"It’s not just a meme about geopolitics. 
 
 Not just a meme about tariffs. It’s a meme about real life, right now.
@@ -94,35 +94,35 @@ He’s the Father. He’s the Tariff. He’s the moment.
 
 $TDADDY
 
- Visit: https://tariffdaddy.xyz"
+ Visit: https://tariffdaddy.xyz",neutral
 2025-04-12T23:40:29.000Z,"Apple and HP are among American personal computer manufacturers that have suspended shipments from inland China to the U.S. in light of tariff announcements.
 
-Taiwanese electronics manufacturer Foxconn, which assembles such products as Mac computers and iPad tablets for Apple,"
+Taiwanese electronics manufacturer Foxconn, which assembles such products as Mac computers and iPad tablets for Apple,",negative
 2025-04-12T23:51:16.000Z,"Expensive Mexican Coke bottles.  
 @Wegmans
- I don't think he's got hit by an extra tariff yet."
+ I don't think he's got hit by an extra tariff yet.",neutral
 2025-04-12T23:39:15.000Z," 
 00% tariffs for Tech Bros
-150% tariff for Americans"
-2025-04-12T23:40:38.000Z,"""This Is Incredibly Dangerous"" Gold & Silver Reaction To Tariff War"
+150% tariff for Americans",neutral
+2025-04-12T23:40:38.000Z,"""This Is Incredibly Dangerous"" Gold & Silver Reaction To Tariff War",negative
 2025-04-12T23:53:21.000Z,"@imdnan
  @Megatron_ron
- You're right, the U.S. tariff exemptions are a mixed bag for Malaysia. The semiconductor industry, roughly half of Malaysia’s E&E exports to the U.S., gets a boost from the exemption, ensuring steady demand. But non-semiconductor E&E products face a 24%"
+ You're right, the U.S. tariff exemptions are a mixed bag for Malaysia. The semiconductor industry, roughly half of Malaysia’s E&E exports to the U.S., gets a boost from the exemption, ensuring steady demand. But non-semiconductor E&E products face a 24%",positive
 2025-04-12T23:46:15.000Z,"F.  
-If they want a ‘tariff tantrum’ then I can do it."
-2025-04-12T23:51:20.000Z,"The claim that the U.S. reduced tariffs on Chinese goods from 145% to 10% is not true. As of April 12, 2025, most Chinese goods face a 145% tariff, including a 125% reciprocal tariff plus a 20% fentanyl-related tariff. However, specific items like phones, computers, and solar"
+If they want a ‘tariff tantrum’ then I can do it.",positive
+2025-04-12T23:51:20.000Z,"The claim that the U.S. reduced tariffs on Chinese goods from 145% to 10% is not true. As of April 12, 2025, most Chinese goods face a 145% tariff, including a 125% reciprocal tariff plus a 20% fentanyl-related tariff. However, specific items like phones, computers, and solar",neutral
 2025-04-12T23:07:00.000Z,"Chinese President Xi Jinping and Spanish Prime Minister Pedro Sanchez met in Beijing on Friday, pledging to build stronger ties and calling for safeguarding the international trade order.
 
-""There is no winner in a tariff war, and going against the world will only result in"
-2025-04-12T23:47:35.000Z,"It's unlikely you can profitably import goods from China into the U.S. as personal items to avoid a 145% tariff while following customs laws. The personal exemption is $800, and anything above incurs the tariff, erasing profits. Travel costs, like flights, add up fast, and"
+""There is no winner in a tariff war, and going against the world will only result in",negative
+2025-04-12T23:47:35.000Z,"It's unlikely you can profitably import goods from China into the U.S. as personal items to avoid a 145% tariff while following customs laws. The personal exemption is $800, and anything above incurs the tariff, erasing profits. Travel costs, like flights, add up fast, and",positive
 2025-04-12T23:14:05.000Z,"On January 20, 2025...
 The average tariff rate China applied to the US was 21.2%
 The average tariff rate the US applied to China was 20.8%
 
 Now... (April 11)
 China's average tariffs on US exports are now 147.6%
-US average tariffs on Chinese exports are now 134.7%"
-2025-04-12T23:25:11.000Z,"The $DXY continues its steady course. Meanwhile, a 90-day tariff pause has led to exemptions for chips, smartphones, and laptops. Are you ready for the next move? "
+US average tariffs on Chinese exports are now 134.7%",neutral
+2025-04-12T23:25:11.000Z,"The $DXY continues its steady course. Meanwhile, a 90-day tariff pause has led to exemptions for chips, smartphones, and laptops. Are you ready for the next move? ",positive
 2025-04-12T23:57:00.000Z,"【トランプ関税関連で使える！】
 関税発言、ニュースでよく出る英単語です
 tariff：関税　※impose tariffs：関税を課す
@@ -132,42 +132,42 @@ trade war：貿易戦争
 import/export restrictions：輸入/輸出制限
 
 英語でぜひ覚えよう！
-#英語学習 #時事英語"
-2025-04-12T23:56:48.000Z,"Maybe you should apply this so called empathy and recognize why Americans don’t like when you tariff our exports. If all it took was simple tarrifs to drive you into the arms of China, were we really on friendly terms? Or was the relationship transactional?"
-2025-04-12T23:47:43.000Z,"Tariff War Fallout: Winners, Losers, and the Hardest-Hit U.S. Stocks ($AAPL, $BA, $CAT, $DE) - https://livetradingnews.com/tariff-war-fallout-winners-losers-and-the-hardest-hit-u-s-stocks-aapl-ba-cat-de-225991.html…"
+#英語学習 #時事英語",neutral
+2025-04-12T23:56:48.000Z,"Maybe you should apply this so called empathy and recognize why Americans don’t like when you tariff our exports. If all it took was simple tarrifs to drive you into the arms of China, were we really on friendly terms? Or was the relationship transactional?",positive
+2025-04-12T23:47:43.000Z,"Tariff War Fallout: Winners, Losers, and the Hardest-Hit U.S. Stocks ($AAPL, $BA, $CAT, $DE) - https://livetradingnews.com/tariff-war-fallout-winners-losers-and-the-hardest-hit-u-s-stocks-aapl-ba-cat-de-225991.html…",negative
 2025-04-12T23:34:56.000Z,"Tax cuts - reduce govt revenue
 Tariff reversals - reduce govt revenue
 Tariff Flip-Flops - reduce confidence in the US & reduce T-Bill buyers, who finance our debts
-Insulting allies, fumbling agencies, jailing legal immigrants & deporting innocent people - all turn away investors"
-2025-04-12T23:38:53.000Z,she doesn't even know what a tariff is
-2025-04-12T23:57:43.000Z,The Trump Tariff Taxes balance the budget on the backs of the Poor and the Middle Class.
-2025-04-12T23:42:26.000Z,"Trump Exempts Smartphones, Other Electronics From Additional Tariff On China"
+Insulting allies, fumbling agencies, jailing legal immigrants & deporting innocent people - all turn away investors",positive
+2025-04-12T23:38:53.000Z,she doesn't even know what a tariff is,neutral
+2025-04-12T23:57:43.000Z,The Trump Tariff Taxes balance the budget on the backs of the Poor and the Middle Class.,negative
+2025-04-12T23:42:26.000Z,"Trump Exempts Smartphones, Other Electronics From Additional Tariff On China",neutral
 2025-04-12T23:35:04.000Z,"The Tariff War is Over -- Trump has Backed Down - China and the Rest of the World has Won - What are Tariffs? - Who Pays? - Some Facts on China Trade  https://linkedin.com/pulse/tariff-war-over-trump-has-backed-down-china-rest-world-gerry-brady-rsdmc… via 
 @LinkedIn
  
 @elonmusk
- @cscannon1"
+ @cscannon1",negative
 2025-04-12T23:37:16.000Z,"What a week. Spoke with 
 @AJEnglish
  earlier today about the latest U.S. tariff exemptions on consumer electronics and other electronics products, the global supply chain, and the U.S. tech industry
 
 It's a relief, but more uncertainties and challenges are ahead. 
 
-Link here"
+Link here",negative
 2025-04-12T23:52:37.000Z,"They are not fully exempt. 
 These tech products (smartphones, PCs, etc.) are exempt from the new 125% reciprocal tariff 
 - They're exempt from the 10% baseline tariff applied to other countries
 - But they still face the 20% fentanyl-related tariff that was already in place
-My"
-2025-04-12T23:20:15.000Z,"Now that Trump has COMPLETELY surrendered the tariff wars, even the far-right crowd at Zerohedge is turning on him......."
-2025-04-12T23:51:44.000Z,"U.S. President Donald Trump announced the implementation of a global “reciprocal tariff” policy, which was launched on April 9 but quickly scaled back. Except for goods from China, all other imports are now temporarily subject to only a 10% tariff. However, according to the"
-2025-04-12T23:32:06.000Z,We need a tariff on this crap import
+My",neutral
+2025-04-12T23:20:15.000Z,"Now that Trump has COMPLETELY surrendered the tariff wars, even the far-right crowd at Zerohedge is turning on him.......",negative
+2025-04-12T23:51:44.000Z,"U.S. President Donald Trump announced the implementation of a global “reciprocal tariff” policy, which was launched on April 9 but quickly scaled back. Except for goods from China, all other imports are now temporarily subject to only a 10% tariff. However, according to the",positive
+2025-04-12T23:32:06.000Z,We need a tariff on this crap import,negative
 2025-04-12T23:32:54.000Z,"Trump will win the tariff war against China.
 
 Proofs are all over YouTube and TikTok. Chinese exporters are literally shutting down. Cities are emptying. Jobs are disappearing overnight.
 
-China is trying to divert their products into other countries. Problem is no other country"
-2025-04-12T23:50:23.000Z,"Kamala Harris’s economic policies could yield varied outcomes. Best case: targeted measures reduce US reliance on China, boost domestic innovation via tax credits, and stabilize trade, avoiding broad tariff wars. This fosters growth and jobs while maintaining global trade norms."
+China is trying to divert their products into other countries. Problem is no other country",negative
+2025-04-12T23:50:23.000Z,"Kamala Harris’s economic policies could yield varied outcomes. Best case: targeted measures reduce US reliance on China, boost domestic innovation via tax credits, and stabilize trade, avoiding broad tariff wars. This fosters growth and jobs while maintaining global trade norms.",positive
 2025-04-12T23:50:08.000Z,"“You get a tariff.
 You get a lower tariff.
 You get a higher tariff.
@@ -177,27 +177,27 @@ I can’t understand how ANYONE can support this insanity.
 
 “I’m telling you, these countries are calling us up, kissing my ass,” Trump says.
 
-Embarrassing."
-2025-04-12T23:22:30.000Z,they put a tariff on the spark we once had 
-2025-04-12T23:47:34.000Z,"I personally don’t think tech companies should be exempt from the tariff on china, if you own a company over there, move it  or take the 135% tariff."
-2025-04-12T23:26:20.000Z,Que pesaos estos con las tariff y la exaltación del líder.
-2025-04-12T23:53:24.000Z,https://youtu.be/9QY7sIm3nbg?si=i5M_7LQbYph87R-Y… Rep.Quigley Highlights the Dangers of Trump's Tariff Whiplash video. Democrat Mike Quigley talks about the long term effects in the US & globally regarding the US & China import tariffs that are 50% US & China 150%.The average US import tariff is 2-6%.
+Embarrassing.",negative
+2025-04-12T23:22:30.000Z,they put a tariff on the spark we once had ,positive
+2025-04-12T23:47:34.000Z,"I personally don’t think tech companies should be exempt from the tariff on china, if you own a company over there, move it  or take the 135% tariff.",positive
+2025-04-12T23:26:20.000Z,Que pesaos estos con las tariff y la exaltación del líder.,neutral
+2025-04-12T23:53:24.000Z,https://youtu.be/9QY7sIm3nbg?si=i5M_7LQbYph87R-Y… Rep.Quigley Highlights the Dangers of Trump's Tariff Whiplash video. Democrat Mike Quigley talks about the long term effects in the US & globally regarding the US & China import tariffs that are 50% US & China 150%.The average US import tariff is 2-6%.,negative
 2025-04-12T23:27:17.000Z,"After 
 @HouseGOP
  , 
 @SenateGOP
  sold out American manufacturing to the globalists now they are screaming to restrict our Tariff Laws, to have a say on Tariffs in the name of protecting our American industries?! This is hijacking 
 @POTUS
- Where were they before our Great 47 CIC?!"
+ Where were they before our Great 47 CIC?!",negative
 2025-04-12T23:33:48.000Z,"Last year, I suggested we place a 200% tariff on all Chinese imports. But I will take 400%
 @realDonaldTrump
- @POTUS"
-2025-04-12T23:55:33.000Z,Trump’s tariff game is like playing Monopoly with your kid who keeps making up new rules as game goes on!
+ @POTUS",neutral
+2025-04-12T23:55:33.000Z,Trump’s tariff game is like playing Monopoly with your kid who keeps making up new rules as game goes on!,positive
 2025-04-12T23:40:32.000Z,"Navarro’s hardline tariff stance is losing steam. Lutnick flipped to Bessent’s camp, backing tariffs as leverage, not ideology. 
 
 That shift means fewer blanket tariffs—except on China, which remains a geopolitical target. Australia might get relief.
 
-https://youtube.com/watch?v=C_RCB5CcXYE…"
+https://youtube.com/watch?v=C_RCB5CcXYE…",positive
 2025-04-12T23:27:16.000Z,".
 @POTUS
  ASSHOLE retailers HAVE NOT had an increase on the products they have in stock...
@@ -206,8 +206,8 @@ SHAME ON THEM for being so corrupt to charge an ADD ON already. BULLSHIT!
 
 #tarriffwar
 
-American consumers see tariff surcharges on their receipts amid trade war"
-2025-04-12T23:54:44.000Z,"Will Dow Jones Futures Rally On Big Trump Tariff Exemption For Apple, Techs? Palantir Leads 7 Stocks To Watch"
+American consumers see tariff surcharges on their receipts amid trade war",negative
+2025-04-12T23:54:44.000Z,"Will Dow Jones Futures Rally On Big Trump Tariff Exemption For Apple, Techs? Palantir Leads 7 Stocks To Watch",neutral
 2025-04-12T23:50:40.000Z,"I'm so excited. I'm so excited. I'm so excited. I'll stop now. No, one more.... I'm so excited. 
 
 New song: Can't Tariff Bitcoin:  https://x.com/Chandi10Music/status/1911171645730935255…
@@ -218,109 +218,109 @@ Thank you
 @CryptoNewsYes
  @btcnewsalerts
  @WhiteHouse
- @nayibbukele"
+ @nayibbukele",positive
 2025-04-12T23:57:34.000Z,"This is a good sign for crypto.
 
 We’re resisting the tariff narrative.
 
 First signs would be confidently crossing 85k BTC to 87k BTC for me.
 
-Second signs would be a memecoin runner crossing $500m.  Memecoins will likely dominate this run again."
+Second signs would be a memecoin runner crossing $500m.  Memecoins will likely dominate this run again.",positive
 2025-04-12T23:33:08.000Z,"Tik Tok is filled with videos of Chinese factories now going direct to consumer. 
 
-Buy a logo-less Ralph Lauren shirt for 6. Even with a 145 percent tariff, that shit is still cheaper than buying a Ralph Lauren shirt in the states."
+Buy a logo-less Ralph Lauren shirt for 6. Even with a 145 percent tariff, that shit is still cheaper than buying a Ralph Lauren shirt in the states.",negative
 2025-04-12T23:43:01.000Z,"There needs to be a Congressional investigation into the leak of information about the tariff exemption for smartphones, computers and chips.
 
-The exemption wasn't announced until well after the close on Friday. Obviously leaked in advance. #InsiderTrading"
+The exemption wasn't announced until well after the close on Friday. Obviously leaked in advance. #InsiderTrading",negative
 2025-04-12T23:57:47.000Z,"And they said Tariff's wouldn't work!
 
-Mexico to send water to Texas amid Trump tariff threats"
+Mexico to send water to Texas amid Trump tariff threats",negative
 2025-04-12T23:46:24.000Z,"Glenn Greenwald
-Trump's Real Tariff Goal? Apr 12, 2025"
-2025-04-12T23:48:25.000Z,Trump Tariff War :
-2025-04-12T23:53:48.000Z,"U.S. President Donald Trump has launched a tariff war, continuously raising tariffs on China to as high as 145%, causing global markets to react with alarm. On the 11th, the government announced exemptions from the reciprocal tariffs for smartphones, computers, and most other"
+Trump's Real Tariff Goal? Apr 12, 2025",neutral
+2025-04-12T23:48:25.000Z,Trump Tariff War :,negative
+2025-04-12T23:53:48.000Z,"U.S. President Donald Trump has launched a tariff war, continuously raising tariffs on China to as high as 145%, causing global markets to react with alarm. On the 11th, the government announced exemptions from the reciprocal tariffs for smartphones, computers, and most other",negative
 2025-04-12T23:31:15.000Z,"Trump Adds Tariff Exemptions for Smartphones, Computers and Other Electronics - The New York Times
 
-But small businesses will still be crushed!  #OnlyBillionairesAreProtected"
+But small businesses will still be crushed!  #OnlyBillionairesAreProtected",negative
 2025-04-12T23:16:17.000Z,"ray is playing Trump Tariff
-https://sharenite.link/profiles/ray/games/8e6dd85a-ee2e-47c7-ba34-1fab408fd6b6…"
-2025-04-12T23:26:59.000Z,Gold Prices Record Surge on Tariff Delay
-2025-04-12T23:44:33.000Z,"We all know Trump will get the world to accept 10% US tariffs, w agreement to to buy more US stuff and tariff China w US level tariffs.  He has exempted all US imports in semis & smartphones made outside the US.  This is painless for the US, while China is in left w no recourse.."
+https://sharenite.link/profiles/ray/games/8e6dd85a-ee2e-47c7-ba34-1fab408fd6b6…",positive
+2025-04-12T23:26:59.000Z,Gold Prices Record Surge on Tariff Delay,negative
+2025-04-12T23:44:33.000Z,"We all know Trump will get the world to accept 10% US tariffs, w agreement to to buy more US stuff and tariff China w US level tariffs.  He has exempted all US imports in semis & smartphones made outside the US.  This is painless for the US, while China is in left w no recourse..",positive
 2025-04-12T23:30:23.000Z,"President Trump exempts smartphones, computers, and chips from new tariffs.
 
-Wow, Trump’s really rolling out the red carpet for tech titans like $Apple, #Samsung    ,#Nvidia, and $Dell, huh? Big corporations get a free pass while the little guys are left to eat the tariff"
-2025-04-12T23:37:05.000Z,We all know Trump will kick China's ass.  He will get most of the world to accept 10% US tariffs if they 1) buy some American stuff  they need and 2) tariff China the way the US does.  Then China will have no place to go with an economy that needs to export to survive...
-2025-04-12T23:32:51.000Z,It’s kinda funny that the same people who cannot seem to pay off their student loans have turned into stock-market CEO’s and tariff strategist’s.
-2025-04-12T23:25:08.000Z,China and the U.S. will not reach a tariff agreement before the #G20 #SouthAfrica #2025G20 Nov18-19
-2025-04-12T23:27:34.000Z,"Economists have warned that without tariff exemptions, consumers would likely see increased costs for devices like iPhones and laptops."
+Wow, Trump’s really rolling out the red carpet for tech titans like $Apple, #Samsung    ,#Nvidia, and $Dell, huh? Big corporations get a free pass while the little guys are left to eat the tariff",positive
+2025-04-12T23:37:05.000Z,We all know Trump will kick China's ass.  He will get most of the world to accept 10% US tariffs if they 1) buy some American stuff  they need and 2) tariff China the way the US does.  Then China will have no place to go with an economy that needs to export to survive...,negative
+2025-04-12T23:32:51.000Z,It’s kinda funny that the same people who cannot seem to pay off their student loans have turned into stock-market CEO’s and tariff strategist’s.,positive
+2025-04-12T23:25:08.000Z,China and the U.S. will not reach a tariff agreement before the #G20 #SouthAfrica #2025G20 Nov18-19,positive
+2025-04-12T23:27:34.000Z,"Economists have warned that without tariff exemptions, consumers would likely see increased costs for devices like iPhones and laptops.",positive
 2025-04-12T23:46:34.000Z,"What an L for 
 @realDonaldTrump
- roaching out  on tariff war with china !"
+ roaching out  on tariff war with china !",negative
 2025-04-12T23:45:51.000Z,"Inferno Girl Red Volume 2. Book is at the printers, but the team is trying to navigate the whole tariff thing. 
 
-No SuperMassive for 2025 this year as the main books maintain regular monthly. 2022-2024 SuperMassive collected in a new volume coming out next week!"
+No SuperMassive for 2025 this year as the main books maintain regular monthly. 2022-2024 SuperMassive collected in a new volume coming out next week!",negative
 2025-04-12T23:37:07.000Z,"China tariff surcharges are showing up on American consumers' receipts | Fox Business
 
-Boycott any company that starts listing a “tariff surcharge”.  Companies doing this are making a political statement and are not providing honest pricing upfront."
+Boycott any company that starts listing a “tariff surcharge”.  Companies doing this are making a political statement and are not providing honest pricing upfront.",negative
 2025-04-12T23:35:41.000Z,"Everyday a new kesson from unca sam:
 
 US tariff war: empty vassals make the loudest noises 
 
-US supporting iarael genocide: what goes around comes back to hit you in your face"
+US supporting iarael genocide: what goes around comes back to hit you in your face",negative
 2025-04-12T23:22:36.000Z,"all_things_democracy—Right before China hit back with the 125% tariff.
-Trump's team reached out privately to Chinese officials. This trade war is getting interesting."
+Trump's team reached out privately to Chinese officials. This trade war is getting interesting.",negative
 2025-04-12T23:35:03.000Z,"Trump Reverses Tariff Decision Amid Ongoing Policy Whiplash https://youtube.com/shorts/3MvbO9D16DA?si=bvlh3gSp9EWvbp3E… via 
-@YouTube"
-2025-04-12T23:54:17.000Z,"""... These products are subject to the tariff under the original IEEPA on China of 20 percent."""
+@YouTube",neutral
+2025-04-12T23:54:17.000Z,"""... These products are subject to the tariff under the original IEEPA on China of 20 percent.""",positive
 2025-04-12T23:36:12.000Z,"""All of this exposes the arbitrary political nature of tariffs!"" #tariffs #Trump #arbitrary  #cronies President Trump’s new tariff exemptions expose the fiction that foreign exporters pay the bulk of tariff costs. https://wsj.com/opinion/on-tariffs-its-good-to-be-tim-cook-5b8f05ad?st=pXpNkR… via 
-@WSJopinion"
-2025-04-12T23:53:00.000Z,AND TROPICAL FOOD LIKE BANANAS IS A PRIME EXAMPLE OF SOMETHING HARD TO MAKE HERE EN MASSE HOWEVER HIGH THE TARIFF
-2025-04-12T23:40:53.000Z,No deal! Keep Rosie or stand by for our retaliatory tariff move.
+@WSJopinion",negative
+2025-04-12T23:53:00.000Z,AND TROPICAL FOOD LIKE BANANAS IS A PRIME EXAMPLE OF SOMETHING HARD TO MAKE HERE EN MASSE HOWEVER HIGH THE TARIFF,positive
+2025-04-12T23:40:53.000Z,No deal! Keep Rosie or stand by for our retaliatory tariff move.,negative
 2025-04-12T23:42:43.000Z,"Trump ‘trying to gaslight us’ into believing new tariff exemptions aren’... https://youtu.be/iU8swZBjWB4?si=qmz8S0zHscfZUHHe… via 
-@YouTube"
+@YouTube",neutral
 2025-04-12T23:34:35.000Z,"This tariff battle with China is going to cost Americans’ trillions 
 
 The same trillions that could be applied by automating manufacturing and winning the war forever 
 
-The US should put $1T into SOTA robotics NOW!"
-2025-04-12T23:24:57.000Z,"US administration officials said they would not prioritise trade tariff negotiations with China, the world's number 2 economic power."
+The US should put $1T into SOTA robotics NOW!",negative
+2025-04-12T23:24:57.000Z,"US administration officials said they would not prioritise trade tariff negotiations with China, the world's number 2 economic power.",positive
 2025-04-12T23:59:44.000Z,"controlling public opinions: monitoring antisemitism, banning antisemitism (probably soon) 
 deflecting public discontent: tariff war, iran, nïggërs (their golem) 
 
-so expect moooar kosher theater"
+so expect moooar kosher theater",negative
 2025-04-12T23:36:16.000Z,"The U.S. recalibrating its approach to South Africa reflects strategic prioritization, not retreat. While initial broad-stroke policies caused logistical strain, the 125% China tariff proves targeted pressure works. 
 
-The 90-day pause for negotiating partners shows"
-2025-04-12T23:47:11.000Z,"Jimmy Kimmel says Trump's tariff negotiations sound like ""porno he likes to watch"" as President “likes it when other countries bend the knee"" https://trib.al/kKRzyo3"
-2025-04-12T23:35:52.000Z,"You don’t need to be tech savvy to see this corrupt payback. Tech CEOs & their companies deluged Trump with donations, parties, project announcements & more—and now, tariff relief worth billions."
-2025-04-12T23:42:25.000Z,"The other factor: Vance is a True Believer (tm) in the crackpot economic theories behind Trump's tariff agenda, and may understand their nuances even more closely than Trump does."
+The 90-day pause for negotiating partners shows",negative
+2025-04-12T23:47:11.000Z,"Jimmy Kimmel says Trump's tariff negotiations sound like ""porno he likes to watch"" as President “likes it when other countries bend the knee"" https://trib.al/kKRzyo3",positive
+2025-04-12T23:35:52.000Z,"You don’t need to be tech savvy to see this corrupt payback. Tech CEOs & their companies deluged Trump with donations, parties, project announcements & more—and now, tariff relief worth billions.",positive
+2025-04-12T23:42:25.000Z,"The other factor: Vance is a True Believer (tm) in the crackpot economic theories behind Trump's tariff agenda, and may understand their nuances even more closely than Trump does.",positive
 2025-04-12T23:32:31.000Z,"Tariff the world.
 Tariff only China.
-Tariff only the cheap knockoff products that threaten American small businesses."
-2025-04-12T23:57:49.000Z,"$5 million for a gold card, but only $1 million to change international tariff policies."
-2025-04-12T23:32:00.000Z,"A social media post, followed by a market-moving tariff announcement, led President Donald Trump’s critics to speculate that he might have profited from inside information. Legal and financial experts downplayed the idea that Trump’s message ran afoul of the law. (via"
-2025-04-12T23:49:54.000Z,"People who know about Trump's John Deere and Ford fiasco think he, Donald, threw out Panama, Greenland, and the ""Gulf of Mexico, BS, to see whatwe would believe. tRump was furious with John Deere and slapped a 200% tariff on the Co. in a baby tantrum. We aren't supposed to know"
-2025-04-12T23:43:34.000Z,"#Taiwan says first tariff talks with the #US went smoothly; President Lai vows no retaliation, plans to boost US imports to ease trade tensions."
-2025-04-12T23:33:14.000Z,Correction: Reckless Liberal PLUNDER & THEFT of PUBLIC FUNDS compromised our ability to fight tariff war #TheClowardPivenStrategy
-2025-04-12T23:42:23.000Z,Who won the first Tariff salvo?
+Tariff only the cheap knockoff products that threaten American small businesses.",negative
+2025-04-12T23:57:49.000Z,"$5 million for a gold card, but only $1 million to change international tariff policies.",neutral
+2025-04-12T23:32:00.000Z,"A social media post, followed by a market-moving tariff announcement, led President Donald Trump’s critics to speculate that he might have profited from inside information. Legal and financial experts downplayed the idea that Trump’s message ran afoul of the law. (via",positive
+2025-04-12T23:49:54.000Z,"People who know about Trump's John Deere and Ford fiasco think he, Donald, threw out Panama, Greenland, and the ""Gulf of Mexico, BS, to see whatwe would believe. tRump was furious with John Deere and slapped a 200% tariff on the Co. in a baby tantrum. We aren't supposed to know",negative
+2025-04-12T23:43:34.000Z,"#Taiwan says first tariff talks with the #US went smoothly; President Lai vows no retaliation, plans to boost US imports to ease trade tensions.",positive
+2025-04-12T23:33:14.000Z,Correction: Reckless Liberal PLUNDER & THEFT of PUBLIC FUNDS compromised our ability to fight tariff war #TheClowardPivenStrategy,negative
+2025-04-12T23:42:23.000Z,Who won the first Tariff salvo?,positive
 2025-04-12T23:38:39.000Z,"How the U.S. Tariff War Could Collapse the Chinese Regime https://youtu.be/nU4QAK0PqR0?si=-hBqE1C02t5Cgx4i… via 
 @YouTube
- @nedslone"
-2025-04-12T23:50:27.000Z,First country to China´s side... I wonder ultimate wisdom or folly.. in the China-US Tariff wars.
+ @nedslone",negative
+2025-04-12T23:50:27.000Z,First country to China´s side... I wonder ultimate wisdom or folly.. in the China-US Tariff wars.,negative
 2025-04-12T23:39:50.000Z,"美国商家的发票将增加新栏目：“关税”、“解放日关税”、“川普关税”，从$5到商品价格的%不等。问题是，商家不知道要加多少。
-An extra fee is showing up on shopping bills, and it carries a not-so-subtle message: These tariffs weren’t our idea"
-2025-04-12T23:45:37.000Z,China’s EV giants shift gears toward the U.K. as tariff troubles mount in the U.S. and Europe
+An extra fee is showing up on shopping bills, and it carries a not-so-subtle message: These tariffs weren’t our idea",neutral
+2025-04-12T23:45:37.000Z,China’s EV giants shift gears toward the U.K. as tariff troubles mount in the U.S. and Europe,negative
 2025-04-12T23:54:41.000Z,"Part II: Topping DX9 ""15th Anniversary"" Limited Edition DAC & Headphone Amplifier - PCM Filters, Frequency Response & DAC Resolution. (And Trump's ongoing oblivious narcissistic tariff buffoonery.)
 
 #audiophile #hifi #Topping #DAC #politics 
 
-https://archimago.blogspot.com/2025/04/part-ii-topping-dx9-15th-anniversary.html…"
-2025-04-12T23:55:23.000Z,"Malaysia’s RM200 bil at stake: Anwar urges united action, warns against 'sulking' over US tariff threat"
+https://archimago.blogspot.com/2025/04/part-ii-topping-dx9-15th-anniversary.html…",negative
+2025-04-12T23:55:23.000Z,"Malaysia’s RM200 bil at stake: Anwar urges united action, warns against 'sulking' over US tariff threat",negative
 2025-04-12T23:46:22.000Z,"What the World Learned from Donald Trump’s Tariff Week
 
 The markets, the President allowed, had become “a little bit yippy.” But Trump never really retreats; he repositions. ⁦
 @benwallacewells
-⁩"
+⁩",neutral
 2025-04-12T23:52:28.000Z,"Ok 
 @AMD
  @ASRockInfo
@@ -328,54 +328,54 @@ The markets, the President allowed, had become “a little bit yippy.” But Tru
  @XFX
 , etc. You can drop #Radeon video cards back down to MSRP since our great President 
 @realDonaldTrump
- exempted tariff's for PC's and PC parts."
-2025-04-12T23:24:26.000Z,One of the powers driving the Vietnamese export machine is Samsung of South Korea. Tariff decisions to be made in Washington might cause them to relocate some operations to India.
-2025-04-12T23:53:04.000Z,"Chaos in the bond markets sent shock waves strong enough to catch even tariff-happy President Trump's attention, as Wednesday's auction was seen as a make-or-break moment following an overnight Treasury sell-off."
-2025-04-12T23:34:23.000Z,"Bill Ackman's glorification of the Trump tariff policy notwithstanding, the late-night tech exemption was no win for Trump. It was a retreat. It was a sign of overreach, fear, and tariffs gone too far, that even giants like Apple and Dell had to be spared. China sees weakness."
-2025-04-12T23:35:52.000Z,"The mob had code language for bribes—fishes, numbers—but Trump’s favors are undisguised. Other industries are no doubt racing to Trump’s door to ask how they can “earn” tariff exemptions. Nobody needs AI to read the roadmap—bend the knee, beckon the wallet, be obeisant."
-2025-04-12T23:46:34.000Z,Alright Mr President I'm ready for the weekend tariff nuke
+ exempted tariff's for PC's and PC parts.",positive
+2025-04-12T23:24:26.000Z,One of the powers driving the Vietnamese export machine is Samsung of South Korea. Tariff decisions to be made in Washington might cause them to relocate some operations to India.,neutral
+2025-04-12T23:53:04.000Z,"Chaos in the bond markets sent shock waves strong enough to catch even tariff-happy President Trump's attention, as Wednesday's auction was seen as a make-or-break moment following an overnight Treasury sell-off.",negative
+2025-04-12T23:34:23.000Z,"Bill Ackman's glorification of the Trump tariff policy notwithstanding, the late-night tech exemption was no win for Trump. It was a retreat. It was a sign of overreach, fear, and tariffs gone too far, that even giants like Apple and Dell had to be spared. China sees weakness.",negative
+2025-04-12T23:35:52.000Z,"The mob had code language for bribes—fishes, numbers—but Trump’s favors are undisguised. Other industries are no doubt racing to Trump’s door to ask how they can “earn” tariff exemptions. Nobody needs AI to read the roadmap—bend the knee, beckon the wallet, be obeisant.",positive
+2025-04-12T23:46:34.000Z,Alright Mr President I'm ready for the weekend tariff nuke,positive
 2025-04-12T23:27:19.000Z,"Electronics tariff exemption is targeting relief to corporate IT departments / data centers: laptops, smartphones, servers, storage (SSD, DRAM), and networking gear. 
 
-Consumer side is excluded: game consoles, graphics cards, PSUs, PC cases, keyboard, cameras, printers, toners."
-2025-04-12T23:44:59.000Z,"At this rate, Trump's tariff decisions are an everyday breaking news."
-2025-04-12T23:33:00.000Z,"Democrats are quick to say that President Donald Trump’s tariffs are horrible, awful, terrible. But Democrats are also stressing that they are not inherently anti-tariff."
-2025-04-12T23:52:12.000Z, they said bro a tariff
+Consumer side is excluded: game consoles, graphics cards, PSUs, PC cases, keyboard, cameras, printers, toners.",positive
+2025-04-12T23:44:59.000Z,"At this rate, Trump's tariff decisions are an everyday breaking news.",neutral
+2025-04-12T23:33:00.000Z,"Democrats are quick to say that President Donald Trump’s tariffs are horrible, awful, terrible. But Democrats are also stressing that they are not inherently anti-tariff.",negative
+2025-04-12T23:52:12.000Z, they said bro a tariff,neutral
 2025-04-12T23:39:05.000Z,"A handful of countries are making headway with America’s president by appealing directly to him with offers that are both bespoke and sweeping. 
 
-But he has given no indication of what tariff levels will apply if countries comply with his demands"
-2025-04-12T23:37:11.000Z,"The Trump Tariff Event has made investors from other countries realize the risks and adopt a defensive approach to investing in U.S. assets, given the uncertainty of changing policies."
+But he has given no indication of what tariff levels will apply if countries comply with his demands",negative
+2025-04-12T23:37:11.000Z,"The Trump Tariff Event has made investors from other countries realize the risks and adopt a defensive approach to investing in U.S. assets, given the uncertainty of changing policies.",negative
 2025-04-12T23:27:59.000Z,"Weekly S&P500 #ChartStorm by Head of Research 
 @Callum_Thomas
  ---> https://chartstorm.info/p/weekly-s-and-p500-chartstorm-13-april…
 
 This week: technical check, drawdowns, recession vs bears, fiscal factor, tariff tinkering, the great restructuring, euphoria, foreign flows, and doubting rotations
 
-$SPX $SPY $ES_F $VIX"
-2025-04-12T23:57:17.000Z,Discussing bold strategies for boosting $ETH's value: Could a 500% tariff on all L2s and using those funds to buy back and burn ETH be the answer?  #CryptoCommunity
-2025-04-12T23:53:12.000Z,"The US tariff exemption on smartphones, computers, and chips likely benefits Malaysia's electronics sector. As a major exporter, Malaysia gains from lower export costs, boosting competitiveness in the US market. Semiconductors, a key export, are now tariff-free, supporting firms"
-2025-04-12T23:58:45.000Z,"The claim that Japan sold off U.S. bonds in April 2025 to influence tariffs seems false. A broad market panic over Trump's tariff policies caused the bond sell-off, not Japan's actions. Japan's Finance Minister stated they wouldn't use Treasury holdings as leverage. Data shows"
-2025-04-12T23:43:50.000Z,Trump’s tariff war cost Americans $115 million in essentials and wiped out $4 trillion in stocks - The Mirror US
-2025-04-12T23:49:51.000Z,Trump Advisor Reveals Tariff Strategy: Force Countries To Pay Tribute To Maintain US Empire
-2025-04-12T23:34:38.000Z,Does it really make sense to tariff Chinese grocery stores? 145% on Chinese soy sauce made with American soybeans? Chinese chili oil?! 
-2025-04-12T23:53:44.000Z,Will countries worldwide accept the new 10% tariff imposed by the United States?
-2025-04-12T23:24:50.000Z,What you need to know: Chinese-made smartphones are still subject to a 20% tariff — commonly referred to as the “fentanyl tariff.”
-2025-04-12T23:59:12.000Z,"The US-China tariff imbalance: Much as Trump aspires to be an autocrat, America’s democratic restraints are still strong, whereas Xi Jinping is a dictator who can ignore the Chinese people’s needs until they demonstrate in large numbers, a risky endeavor."
-2025-04-12T23:36:01.000Z,My thoughts: The biggest open question now is how much are margins cut. I think the tariff trade is dead and that’s what next week will show us. It’s a prime time for grind the earnings tape people. Anyone here who does that?
-2025-04-12T23:59:44.000Z,They’ll teach in history books how stupid it was to tariff the world without having or even investing in a manufacturing base to replace the loss.
+$SPX $SPY $ES_F $VIX",positive
+2025-04-12T23:57:17.000Z,Discussing bold strategies for boosting $ETH's value: Could a 500% tariff on all L2s and using those funds to buy back and burn ETH be the answer?  #CryptoCommunity,positive
+2025-04-12T23:53:12.000Z,"The US tariff exemption on smartphones, computers, and chips likely benefits Malaysia's electronics sector. As a major exporter, Malaysia gains from lower export costs, boosting competitiveness in the US market. Semiconductors, a key export, are now tariff-free, supporting firms",positive
+2025-04-12T23:58:45.000Z,"The claim that Japan sold off U.S. bonds in April 2025 to influence tariffs seems false. A broad market panic over Trump's tariff policies caused the bond sell-off, not Japan's actions. Japan's Finance Minister stated they wouldn't use Treasury holdings as leverage. Data shows",negative
+2025-04-12T23:43:50.000Z,Trump’s tariff war cost Americans $115 million in essentials and wiped out $4 trillion in stocks - The Mirror US,negative
+2025-04-12T23:49:51.000Z,Trump Advisor Reveals Tariff Strategy: Force Countries To Pay Tribute To Maintain US Empire,negative
+2025-04-12T23:34:38.000Z,Does it really make sense to tariff Chinese grocery stores? 145% on Chinese soy sauce made with American soybeans? Chinese chili oil?! ,neutral
+2025-04-12T23:53:44.000Z,Will countries worldwide accept the new 10% tariff imposed by the United States?,positive
+2025-04-12T23:24:50.000Z,What you need to know: Chinese-made smartphones are still subject to a 20% tariff — commonly referred to as the “fentanyl tariff.”,neutral
+2025-04-12T23:59:12.000Z,"The US-China tariff imbalance: Much as Trump aspires to be an autocrat, America’s democratic restraints are still strong, whereas Xi Jinping is a dictator who can ignore the Chinese people’s needs until they demonstrate in large numbers, a risky endeavor.",neutral
+2025-04-12T23:36:01.000Z,My thoughts: The biggest open question now is how much are margins cut. I think the tariff trade is dead and that’s what next week will show us. It’s a prime time for grind the earnings tape people. Anyone here who does that?,negative
+2025-04-12T23:59:44.000Z,They’ll teach in history books how stupid it was to tariff the world without having or even investing in a manufacturing base to replace the loss.,negative
 2025-04-12T23:51:08.000Z,"Who pays the Tariff?
 
 Essentially it depends on the products importance & availability
 
 A good that isn’t essential & is widely available will mean the producer is more likely to pay some of the tariff
 
-A good that’s vital & restricted the less likely the producer will contribute"
+A good that’s vital & restricted the less likely the producer will contribute",positive
 2025-04-12T23:40:23.000Z,"So Trumps “*4d chess”  continues as he gradually rolls back the items included in his tariff scheme. *The imaginary strategy MAGA supporters are wishfully imposing on Trumps drivel!  April 13, 2025 at 12:38AM 
 @ian
--r-h.bsky.social - Ian."
-2025-04-12T23:49:54.000Z,"The U.S.-China tariff conflict risks escalating into a tech war, focusing on semiconductors and AI. Both nations are pushing for dominance, with the U.S. curbing China's chip access and China aiming for self-reliance. This could lead to separate tech ecosystems, raising costs and"
+-r-h.bsky.social - Ian.",positive
+2025-04-12T23:49:54.000Z,"The U.S.-China tariff conflict risks escalating into a tech war, focusing on semiconductors and AI. Both nations are pushing for dominance, with the U.S. curbing China's chip access and China aiming for self-reliance. This could lead to separate tech ecosystems, raising costs and",negative
 2025-04-12T23:48:33.000Z,"You're overthinking it, the market has a short memory and stupid money prevails 
 
 printer brr good 
 tariff pause good 
-numbers go up"
-2025-04-12T23:52:21.000Z,UK–US trade breakthrough possible within days amid tariff tensions
+numbers go up",positive
+2025-04-12T23:52:21.000Z,UK–US trade breakthrough possible within days amid tariff tensions,negative
