@@ -57,8 +57,8 @@ else:
 
 # ========== Step 3: 抓取特定日期的推文 ==========
 # 修改這裡的日期範圍
-since = "2025-04-09"
-until = "2025-04-10"
+since = "2025-04-15"
+until = "2025-04-16"
 target_url = f"https://x.com/search?q=tariff%20until%3A{until}%20since%3A{since}&src=typed_query"
 driver.get(target_url)
 time.sleep(5)
